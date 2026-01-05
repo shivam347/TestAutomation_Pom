@@ -1,0 +1,11 @@
+
+<suite name="OrangeHRM Suite">
+
+    <test name="Chrome Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="orangehrm.pagestest.LoginPageTest"/>
+        </classes>
+    </test>
+
+</suite>
