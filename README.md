@@ -49,3 +49,18 @@ This ensures each test method gets its own browser instance and avoids cross-thr
 A `ScreenshotUtil` class is implemented to capture screenshots.  
 It retrieves the correct driver using: DriverFactory.getDriver()
 
+### Added plugin to build in pom.xml file
+
+<plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.3.0</version>
+            <configuration>
+                <suiteXmlFiles>
+                    <suiteXmlFile>testng.xml</suiteXmlFile>
+                </suiteXmlFiles>
+            </configuration>
+        </plugin>
+
+
+
