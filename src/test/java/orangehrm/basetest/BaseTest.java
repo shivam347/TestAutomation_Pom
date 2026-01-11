@@ -11,7 +11,7 @@ import orangehrm.driverfactory.DriverFactory;
 import org.testng.Reporter;
 
 public class BaseTest {
-	protected WebDriver driver;
+	protected  WebDriver driver;
 	@BeforeClass
 	public void beforeClass() {
 		try {

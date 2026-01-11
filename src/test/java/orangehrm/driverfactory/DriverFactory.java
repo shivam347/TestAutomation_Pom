@@ -18,6 +18,7 @@ public class DriverFactory {
     private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
 
     public static void initDriver(String browser) {
+        // create logs in testng reports and sets true for printing on console.
     	Reporter.log("login test started",true);
     	Reporter.log(browser,true);
         if (browser == null) {
@@ -64,6 +65,7 @@ public class DriverFactory {
     	log.info("Quit driver");
         if (driver.get() != null) {
             driver.get().quit();
+            // removing it to get safe from memory leak
             driver.remove();
         }
     }

@@ -1,0 +1,11 @@
+orangehrm\dataprovider\LoginDataProvider.class
+orangehrm\pages\LoginPage.class
+orangehrm\basetest\BaseTest.class
+orangehrm\constant\Constant.class
+orangehrm\utility\ScreenshotUtil.class
+orangehrm\pagestest\LoginPageTest.class
+orangehrm\listener\TestListener.class
+orangehrm\utility\FolderCreation.class
+orangehrm\driverfactory\DriverFactory.class
+orangehrm\configreader\ConfigReader.class
+orangehrm\utility\WaitUtil.class
