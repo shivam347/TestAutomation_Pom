@@ -1,4 +1,4 @@
-# Created at 2026-01-11T11:44:13.849
+# Created at 2026-01-11T16:58:54.833
 java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
 	at orangehrm.utility.ScreenshotUtil.capture(ScreenshotUtil.java:29)
 	at orangehrm.listener.TestListener.onTestFailure(TestListener.java:21)

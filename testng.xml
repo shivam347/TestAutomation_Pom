@@ -1,4 +1,4 @@
-<suite name="OrangeHRM Suite" parallel="tests" thread-count="3">
+<suite name="OrangeHRM Suite">
 
     <listeners>
         <listener class-name="orangehrm.listener.TestListener"/>
