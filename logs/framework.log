@@ -14,3 +14,67 @@
 2026-01-15 11:09:44 INFO  [AddRemovePage] - Add button clicked
 2026-01-15 11:09:45 INFO  [AddRemovePage] - Add button clicked
 2026-01-15 11:09:45 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:20:30 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-15 12:20:36 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:20:36 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:20:36 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:20:36 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:20:36 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:20:36 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:26:44 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-15 12:26:48 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:26:48 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:26:48 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:26:48 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:26:48 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:26:49 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:33:18 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-15 12:33:24 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:33:24 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:33:24 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 12:33:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:33:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 12:33:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:34:13 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-15 14:34:20 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:34:20 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:34:20 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:34:21 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:34:21 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:34:21 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:34:35 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-15 14:34:43 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-15 14:34:51 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-15 14:35:00 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-15 14:36:45 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-15 14:36:53 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:36:53 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:36:53 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:36:53 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:36:54 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:36:54 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:37:07 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-15 14:55:13 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-15 14:55:20 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:55:20 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:55:20 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 14:55:20 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:55:20 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:55:21 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 14:55:37 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-15 14:55:44 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-15 14:55:54 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-15 14:56:03 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-15 15:49:09 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-15 15:49:15 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 15:49:15 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 15:49:15 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 15:49:16 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 15:49:16 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 15:49:16 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 15:49:29 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-15 15:49:35 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-15 15:49:41 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-15 15:49:47 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-15 15:49:53 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-15 15:49:53 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg

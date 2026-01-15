@@ -6,6 +6,8 @@
         <classes>
             <class name="herokuapp.pagestest.FT01_ABTestingTest" />
             <class name="herokuapp.pagestest.FT02_AddRemoveTest" />
+            <class name="herokuapp.pagestest.FT03_BasicAuthTest" />
+            <class name="herokuapp.pagestest.FT04_BrokenImageTest" />
         </classes>
     </test>
 

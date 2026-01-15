@@ -1,11 +1,15 @@
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\basetest\BaseTest.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\configreader\ConfigReader.java
-C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\dataprovider\DataProvider.java
+C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\dataproviderheroku\DataProviderHeroku.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\driver\DriverFactory.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pages\ABTestingPage.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pages\AddRemovePage.java
+C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pages\BasicAuthPage.java
+C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pages\BrokenImagePage.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pagestest\FT01_ABTestingTest.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pagestest\FT02_AddRemoveTest.java
+C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pagestest\FT03_BasicAuthTest.java
+C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\pagestest\FT04_BrokenImageTest.java
 C:\Projects\automation_project_pom_arch\src\test\java\herokuapp\util\WaitUtil.java
 C:\Projects\automation_project_pom_arch\src\test\java\orangehrm\basetest\BaseTest.java
 C:\Projects\automation_project_pom_arch\src\test\java\orangehrm\configreader\ConfigReader.java
