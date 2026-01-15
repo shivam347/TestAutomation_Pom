@@ -1,0 +1,12 @@
+<suite name="herokuapp Suite">
+
+    <parameter name="browser" value="chrome" />
+
+    <test name="heroku chrome test">
+        <classes>
+            <class name="herokuapp.pagestest.FT01_ABTestingTest" />
+            <class name="herokuapp.pagestest.FT02_AddRemoveTest" />
+        </classes>
+    </test>
+
+</suite>

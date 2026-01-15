@@ -6,43 +6,48 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import herokuapp.configreader.ConfigReader;
 import herokuapp.driver.DriverFactory;
 
 public class BaseTest {
-	protected  WebDriver driver;
+	protected WebDriver driver;
+
 	@BeforeClass
 	public void beforeClass() {
 		try {
-		}catch(Exception e) {
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
+
 	@Parameters("browser")
 	@BeforeMethod
-	public void beforeMethod(String browser) {
-		Reporter.log("Browser is opening",true);
+	public void beforeMethod(@Optional("chrome") String browser) { // set the browser value as optional if not provided
+																	// by Suite then take it optional value as chrome
+		Reporter.log("Browser is opening", true);
 		try {
 			DriverFactory.initDriver(browser);
 			DriverFactory.getDriver()
-            .get(ConfigReader.get("herokuapp.url"));
-		}catch(Exception e) {
+					.get(ConfigReader.get("herokuapp.url"));
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
+
 	@AfterMethod
 	public void afterMethod() {
-		Reporter.log("Browser is closing",true);
+		Reporter.log("Browser is closing", true);
 		try {
 			DriverFactory.quitDriver();
-		}catch(Exception e) {
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
+
 	@AfterClass
 	public void afterClass() {
 	}
 }
-
