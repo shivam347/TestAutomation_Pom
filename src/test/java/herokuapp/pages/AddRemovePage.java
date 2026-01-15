@@ -7,6 +7,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
+import herokuapp.driver.DriverFactory;
+
 import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
@@ -44,18 +46,21 @@ public class AddRemovePage {
 
     /* Method to get the count of delete button */
     public int getdeletebuttonCount() {
+        deleteButton = DriverFactory.getDriver().findElements(By.xpath("//button[text()='Delete']"));
         return deleteButton.size();
     }
 
-    /* Method to delete any delete button */
+    /* Method to delete all delete button
+    so using while loop to get count of delete button and 
+    everytime get first instance of delete button using driver then waiting for click 
+    like one-by one deleting all delete buttons */
     public void deleteAllButton() {
-        By deleteBtnLocator = By.cssSelector("button.added-manually");
-
-        while(deleteButton.size() > 0) {
-            WaitUtil.waitForClickable(driver, deleteBtnLocator);
-           
-            driver.findElement(deleteBtnLocator).click();
-        }
+       Reporter.log("Deleting all delete Button", true);
+       while(getdeletebuttonCount() > 0){
+        WebElement btn = DriverFactory.getDriver().findElements(By.xpath("//button[text()='Delete']")).get(0);
+        WaitUtil.waitForClickable(driver, btn).click();
+        log.info("One delete button removed");
+       }
 
     }
 
