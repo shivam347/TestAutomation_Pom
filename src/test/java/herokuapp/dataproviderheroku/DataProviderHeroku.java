@@ -21,4 +21,18 @@ public class DataProviderHeroku {
 
     }
 
+
+    // Data provider for Login Form Authentication
+    @DataProvider(name="LoginForm")
+    public static Object[][] getLoginFormData(){
+        Reporter.log("Starting Inserting values for Login Form", true);
+        return new Object[][]{
+            {"tomsmith","SuperSecretPassword!",true},
+            {"tomsmith", "wrongPass", false},
+            {"wrongUser", "SuperSecretPassword!", false},
+            {"" , "", false}
+
+        };
+    }
+
 }
