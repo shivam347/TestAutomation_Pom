@@ -69,6 +69,10 @@ public class WaitUtil {
                                 .until(ExpectedConditions.visibilityOfElementLocated(locator));
         }
 
-       
+        // Method to wait for invisibility
+        public static boolean waitForInvisibility(WebDriver driver, By locator) {
+                return getWait(driver, DEFAULT_TIMEOUT)
+                                .until(ExpectedConditions.invisibilityOfElementLocated(locator));
+        }
 
 }

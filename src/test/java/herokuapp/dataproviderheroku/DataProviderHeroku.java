@@ -35,4 +35,16 @@ public class DataProviderHeroku {
         };
     }
 
+
+    @DataProvider(name="StatusCode")
+    public static Object[][] getStatusCode(){
+        Reporter.log("Starting providing different code to the page", true);
+        return new Object[][]{
+            {"200"},
+            {"301"},
+            {"404"},
+            {"500"}
+        };
+    }
+
 }

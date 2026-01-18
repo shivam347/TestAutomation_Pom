@@ -33,7 +33,7 @@ public class ContextMenuPage {
     /* Method which will perform right click on the contextMenu */
     public void rightClickContextMenu() {
         Reporter.log("Performing right click on the contextMenu", true);
-        Actions action = new Actions(driver); // Using actions from selenium
+        Actions action = new Actions(DriverFactory.getDriver()); // Using actions from selenium
         action.contextClick(WaitUtil.waitForVisibility(driver, contextMenu)).perform();
         log.info("Right click Performed");
 

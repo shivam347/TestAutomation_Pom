@@ -78,3 +78,89 @@
 2026-01-15 15:49:47 INFO  [BasicAuthPage] - Navigated with: user/pass
 2026-01-15 15:49:53 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
 2026-01-15 15:49:53 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-15 17:05:54 INFO  [CheckBoxPage] - checkbox selected
+2026-01-15 18:02:59 INFO  [ContextMenuPage] - Right click Performed
+2026-01-15 18:02:59 INFO  [ContextMenuPage] - Message Received: 
+2026-01-15 18:04:26 INFO  [ContextMenuPage] - Right click Performed
+2026-01-15 18:04:26 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-15 18:06:16 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-15 18:06:23 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 18:06:23 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 18:06:23 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 18:06:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 18:06:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 18:06:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 18:06:49 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-15 18:06:56 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-15 18:07:04 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-15 18:07:10 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-15 18:07:17 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-15 18:07:17 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-15 18:07:31 INFO  [ContextMenuPage] - Right click Performed
+2026-01-15 18:07:31 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-15 18:19:31 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-15 18:19:38 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 18:19:38 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 18:19:38 INFO  [AddRemovePage] - Add button clicked
+2026-01-15 18:19:38 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 18:19:39 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 18:19:39 INFO  [AddRemovePage] - One delete button removed
+2026-01-15 18:19:52 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-15 18:19:59 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-15 18:20:06 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-15 18:20:14 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-15 18:20:22 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-15 18:20:22 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-15 18:20:30 INFO  [CheckBoxPage] - checkbox selected
+2026-01-15 18:20:44 INFO  [ContextMenuPage] - Right click Performed
+2026-01-15 18:20:44 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-16 17:03:02 INFO  [DropDownPage] - Selected: Option 1
+2026-01-16 17:03:03 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-16 17:03:03 INFO  [DropDownPage] - Selected: Option 2
+2026-01-16 17:03:03 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-16 23:24:41 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-16 23:27:26 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-16 23:29:13 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-16 23:43:42 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-16 23:46:13 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-16 23:47:07 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-17 00:33:59 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-17 00:34:23 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-17 00:52:19 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-17 00:52:28 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-17 00:55:21 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-17 00:55:31 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-17 01:02:37 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-17 01:02:46 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-17 01:02:49 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-17 01:02:53 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-17 15:25:30 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-17 15:25:35 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-17 16:08:21 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-17 16:08:21 INFO  [EntryAdPage] - Modal popup closed
+2026-01-17 16:38:45 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-17 16:38:46 INFO  [EntryAdPage] - Modal popup closed
+2026-01-17 19:11:56 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-17 19:12:05 INFO  [AddRemovePage] - Add button clicked
+2026-01-17 19:12:05 INFO  [AddRemovePage] - Add button clicked
+2026-01-17 19:12:05 INFO  [AddRemovePage] - Add button clicked
+2026-01-17 19:12:05 INFO  [AddRemovePage] - One delete button removed
+2026-01-17 19:12:05 INFO  [AddRemovePage] - One delete button removed
+2026-01-17 19:12:05 INFO  [AddRemovePage] - One delete button removed
+2026-01-17 19:12:33 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-17 19:12:42 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-17 19:12:50 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-17 19:12:58 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-17 19:13:05 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-17 19:13:05 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-17 19:13:13 INFO  [CheckBoxPage] - checkbox selected
+2026-01-17 19:13:27 INFO  [ContextMenuPage] - Right click Performed
+2026-01-17 19:13:27 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-17 22:50:18 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-17 22:57:23 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-17 22:59:35 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-17 22:59:36 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-17 22:59:36 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-17 22:59:36 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-18 01:05:18 INFO  [HorizontalSliderPage] - Slider moved to: 3.5
+2026-01-18 01:07:04 INFO  [HorizontalSliderPage] - Slider moved using Actions to: 3.5

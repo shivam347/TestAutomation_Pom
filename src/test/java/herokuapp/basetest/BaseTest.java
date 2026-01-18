@@ -6,7 +6,6 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 import herokuapp.configreader.ConfigReader;
@@ -25,8 +24,7 @@ public class BaseTest {
 
 	@Parameters("browser")
 	@BeforeMethod
-	public void beforeMethod(@Optional("chrome") String browser) { // set the browser value as optional if not provided
-																	// by Suite then take it optional value as chrome
+	public void beforeMethod(String browser) {
 		Reporter.log("Browser is opening", true);
 		try {
 			DriverFactory.initDriver(browser);
