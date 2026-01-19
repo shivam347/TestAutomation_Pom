@@ -8,6 +8,7 @@ import herokuapp.basetest.BaseTest;
 import herokuapp.dataproviderheroku.DataProviderHeroku;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.BasicAuthPage;
+import herokuapp.pages.PerformancePage;
 
 public class FT03_BasicAuthTest extends BaseTest {
 
@@ -32,6 +33,17 @@ public class FT03_BasicAuthTest extends BaseTest {
 
 
 
+    }
+
+     @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/basic_auth");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
 
 

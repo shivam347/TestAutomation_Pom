@@ -164,3 +164,232 @@
 2026-01-17 22:59:36 INFO  [FloatingMenuPage] - Floating menu displayed: true
 2026-01-18 01:05:18 INFO  [HorizontalSliderPage] - Slider moved to: 3.5
 2026-01-18 01:07:04 INFO  [HorizontalSliderPage] - Slider moved using Actions to: 3.5
+2026-01-18 16:04:16 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-18 16:06:18 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-18 16:13:07 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-18 17:00:20 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-18 17:00:26 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 17:00:26 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 17:00:26 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 17:00:26 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 17:00:26 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 17:00:26 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 17:00:38 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-18 17:00:44 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-18 17:00:50 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-18 17:00:57 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-18 17:01:03 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-18 17:01:03 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-18 17:01:09 INFO  [CheckBoxPage] - checkbox selected
+2026-01-18 17:01:14 INFO  [ContextMenuPage] - Right click Performed
+2026-01-18 17:01:14 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-18 17:01:26 INFO  [DropDownPage] - Selected: Option 1
+2026-01-18 17:01:26 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-18 17:01:26 INFO  [DropDownPage] - Selected: Option 2
+2026-01-18 17:01:27 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-18 17:01:33 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-18 17:01:42 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-18 17:01:45 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-18 17:01:49 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-18 17:01:58 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-18 17:02:03 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-18 17:02:13 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-18 17:02:13 INFO  [EntryAdPage] - Modal popup closed
+2026-01-18 17:02:56 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-18 17:02:56 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-18 17:02:56 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-18 17:02:57 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-18 19:14:13 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-18 19:14:19 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 19:14:19 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 19:14:19 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 19:14:19 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 19:14:19 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 19:14:19 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 19:14:33 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-18 19:14:43 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-18 19:14:51 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-18 19:14:58 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-18 19:15:05 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-18 19:15:05 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-18 19:15:11 INFO  [CheckBoxPage] - checkbox selected
+2026-01-18 19:15:17 INFO  [ContextMenuPage] - Right click Performed
+2026-01-18 19:15:17 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-18 19:15:30 INFO  [DropDownPage] - Selected: Option 1
+2026-01-18 19:15:30 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-18 19:15:30 INFO  [DropDownPage] - Selected: Option 2
+2026-01-18 19:15:30 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-18 19:15:36 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-18 19:15:45 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-18 19:15:48 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-18 19:15:52 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-18 19:17:10 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-18 19:17:16 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-18 19:17:41 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-18 19:17:41 INFO  [EntryAdPage] - Modal popup closed
+2026-01-18 19:19:03 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-18 19:19:03 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-18 19:19:03 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-18 19:19:03 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-18 19:43:26 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-18 19:43:26 ERROR [ScreenshotListener] - Test Failed: verifyHeadingText
+2026-01-18 20:36:58 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-18 20:36:58 ERROR [ScreenshotListener] - Test Failed: verifyHeadingText
+2026-01-18 21:34:16 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-18 21:35:36 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-18 21:35:47 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 21:35:47 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 21:35:47 INFO  [AddRemovePage] - Add button clicked
+2026-01-18 21:35:47 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 21:35:47 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 21:35:47 INFO  [AddRemovePage] - One delete button removed
+2026-01-18 21:36:04 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-18 21:36:47 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-18 21:36:54 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-18 21:37:03 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-18 21:37:12 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-18 21:37:12 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-18 21:37:20 INFO  [CheckBoxPage] - checkbox selected
+2026-01-18 21:37:34 INFO  [ContextMenuPage] - Right click Performed
+2026-01-18 21:37:34 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-18 21:38:15 INFO  [DropDownPage] - Selected: Option 1
+2026-01-18 21:38:15 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-18 21:38:15 INFO  [DropDownPage] - Selected: Option 2
+2026-01-18 21:38:15 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-18 21:38:42 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-18 21:38:51 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-18 21:38:54 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-18 21:38:57 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-18 21:39:09 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-18 21:39:15 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-18 21:39:42 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-18 21:39:42 INFO  [EntryAdPage] - Modal popup closed
+2026-01-18 21:40:48 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-18 21:40:48 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-18 21:40:48 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-18 21:40:48 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 10:32:45 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-19 10:32:52 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 10:32:52 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 10:32:52 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 10:32:52 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 10:32:52 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 10:32:52 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 10:33:06 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-19 10:33:12 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-19 10:33:19 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-19 10:33:25 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-19 10:33:32 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 10:33:32 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 10:33:38 INFO  [CheckBoxPage] - checkbox selected
+2026-01-19 10:33:44 INFO  [ContextMenuPage] - Right click Performed
+2026-01-19 10:33:44 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-19 10:33:59 INFO  [DropDownPage] - Selected: Option 1
+2026-01-19 10:33:59 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-19 10:33:59 INFO  [DropDownPage] - Selected: Option 2
+2026-01-19 10:33:59 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-19 10:34:04 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-19 10:34:13 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-19 10:34:17 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-19 10:34:20 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-19 10:34:30 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-19 10:34:35 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-19 10:34:44 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-19 10:34:44 INFO  [EntryAdPage] - Modal popup closed
+2026-01-19 10:35:26 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 10:35:26 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 10:35:26 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 10:35:26 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 11:20:11 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-19 11:27:00 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-19 17:00:43 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-19 17:00:56 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 17:00:56 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 17:00:56 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 17:00:57 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 17:00:57 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 17:00:57 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 17:01:10 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-19 17:01:17 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-19 17:01:23 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-19 17:01:30 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-19 17:01:39 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 17:01:39 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 17:01:45 INFO  [CheckBoxPage] - checkbox selected
+2026-01-19 17:02:15 INFO  [ContextMenuPage] - Right click Performed
+2026-01-19 17:02:15 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-19 17:02:32 INFO  [DropDownPage] - Selected: Option 1
+2026-01-19 17:02:32 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-19 17:02:32 INFO  [DropDownPage] - Selected: Option 2
+2026-01-19 17:02:32 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-19 17:02:38 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-19 17:02:48 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-19 17:02:51 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-19 17:02:54 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-19 17:03:04 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-19 17:03:09 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-19 17:03:19 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-19 17:03:19 INFO  [EntryAdPage] - Modal popup closed
+2026-01-19 17:04:34 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 17:04:34 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 17:04:34 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 17:04:34 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 18:13:04 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-19 18:13:18 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 18:13:18 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 18:13:18 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 18:13:18 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 18:13:18 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 18:13:19 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 18:13:38 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-19 18:13:50 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-19 18:13:57 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-19 18:14:05 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-19 18:14:18 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 18:14:18 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 18:14:51 INFO  [CheckBoxPage] - checkbox selected
+2026-01-19 18:14:58 INFO  [ContextMenuPage] - Right click Performed
+2026-01-19 18:14:58 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-19 18:15:13 INFO  [DropDownPage] - Selected: Option 1
+2026-01-19 18:15:13 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-19 18:15:13 INFO  [DropDownPage] - Selected: Option 2
+2026-01-19 18:15:13 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-19 18:15:38 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-19 18:15:47 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-19 18:15:50 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-19 18:15:54 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-19 18:16:14 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-19 18:16:14 INFO  [EntryAdPage] - Modal popup closed
+2026-01-19 18:18:20 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 18:18:20 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 18:18:20 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 18:18:20 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 18:26:46 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-19 18:42:21 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+2026-01-19 18:42:37 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 18:42:37 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 18:42:37 INFO  [AddRemovePage] - Add button clicked
+2026-01-19 18:42:37 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 18:42:38 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 18:42:38 INFO  [AddRemovePage] - One delete button removed
+2026-01-19 18:43:06 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-19 18:43:14 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-19 18:43:28 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-19 18:43:36 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-19 18:43:51 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 18:43:51 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-19 18:44:17 INFO  [CheckBoxPage] - checkbox selected
+2026-01-19 18:44:41 INFO  [ContextMenuPage] - Right click Performed
+2026-01-19 18:44:41 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-19 18:45:33 INFO  [DropDownPage] - Selected: Option 1
+2026-01-19 18:45:34 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-19 18:45:34 INFO  [DropDownPage] - Selected: Option 2
+2026-01-19 18:45:34 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-19 18:46:09 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-19 18:46:14 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-19 18:46:25 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-19 18:46:25 INFO  [EntryAdPage] - Modal popup closed
+2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Floating menu displayed: true

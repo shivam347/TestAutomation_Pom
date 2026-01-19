@@ -4,6 +4,8 @@ package herokuapp.pagestest;
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.HoversPage;
+import herokuapp.pages.PerformancePage;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -28,5 +30,16 @@ public class FT18_HoversTest extends BaseTest {
             Assert.assertTrue(page.isProfileLinkVisible(i),
                     "Profile link not visible for user index: " + i);
         }
+    }
+
+    @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/hovers");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
 }

@@ -1,12 +1,15 @@
 package herokuapp.pagestest;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.ABTestingPage;
+import herokuapp.pages.PerformancePage;
+import herokuapp.pages.RenderingPage;
 
 public class FT01_ABTestingTest extends BaseTest {
 
@@ -29,4 +32,17 @@ public class FT01_ABTestingTest extends BaseTest {
 
     }
 
+    // Non functional Testing Method
+    @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/abtest");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
+    }
+
+   
 }

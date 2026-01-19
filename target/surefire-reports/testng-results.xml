@@ -1,0 +1,2877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="39" passed="38" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing ABtesting]]>
+    </line>
+    <line>
+      <![CDATA[fetching heading text for abtesting]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing Add Remove Page]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of Add Button]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of Add Button]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of Add Button]]>
+    </line>
+    <line>
+      <![CDATA[Deleting all delete Button]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Start Inserting Values for BasicAuth]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing Basic auth]]>
+    </line>
+    <line>
+      <![CDATA[Navigating with Basic Auth credentials]]>
+    </line>
+    <line>
+      <![CDATA[Validating success message]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing Basic auth]]>
+    </line>
+    <line>
+      <![CDATA[Navigating with Basic Auth credentials]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing Basic auth]]>
+    </line>
+    <line>
+      <![CDATA[Navigating with Basic Auth credentials]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing Basic auth]]>
+    </line>
+    <line>
+      <![CDATA[Navigating with Basic Auth credentials]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of Broken Image Test]]>
+    </line>
+    <line>
+      <![CDATA[Checking the Broken state of the images]]>
+    </line>
+    <line>
+      <![CDATA[Checking the Broken state of the images]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of CheckBox Method]]>
+    </line>
+    <line>
+      <![CDATA[Selecting checkBox at index : 0]]>
+    </line>
+    <line>
+      <![CDATA[CheckBox is selected at Index: 0]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of the ContextMenuPage]]>
+    </line>
+    <line>
+      <![CDATA[Performing right click on the contextMenu]]>
+    </line>
+    <line>
+      <![CDATA[Started Handling the alert text]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing DragDropPage]]>
+    </line>
+    <line>
+      <![CDATA[Performing Drag and Drop A to B]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of Drop-Down Page]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the option from drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the option from drop down]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Test FAILED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[Initializing DynamicLoadingPage]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Start button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for loading to finish]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for finish text]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing EntryAdPage]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for modal popup]]>
+    </line>
+    <line>
+      <![CDATA[Closing modal popup]]>
+    </line>
+    <line>
+      <![CDATA[Checking if modal popup is closed]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing TyposPage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing FileUploadPage]]>
+    </line>
+    <line>
+      <![CDATA[Uploading file: C:\Projects\Sample.txt.txt]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Upload button]]>
+    </line>
+    <line>
+      <![CDATA[Uploaded file name: Sample.txt.txt]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing FileDownloadPage]]>
+    </line>
+    <line>
+      <![CDATA[Download link: https://the-internet.herokuapp.com/download/some-file.txt]]>
+    </line>
+    <line>
+      <![CDATA[Clicking file download link]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing FloatingMenuPage]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling page by: 800]]>
+    </line>
+    <line>
+      <![CDATA[Checking if floating menu is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling page by: -800]]>
+    </line>
+    <line>
+      <![CDATA[Checking if floating menu is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Starting Inserting values for Login Form]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of LoginForm Page Authentication]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of LoginForm Page Authentication]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of LoginForm Page Authentication]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initialization of LoginForm Page Authentication]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing HorizontalSliderPage]]>
+    </line>
+    <line>
+      <![CDATA[Moving slider to value (via Actions): 5]]>
+    </line>
+    <line>
+      <![CDATA[Moved slider using Actions successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing HoversPage]]>
+    </line>
+    <line>
+      <![CDATA[Hovering over user index: 0]]>
+    </line>
+    <line>
+      <![CDATA[Hovering over user index: 1]]>
+    </line>
+    <line>
+      <![CDATA[Hovering over user index: 2]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing InfiniteScrollPage]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling down the page]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling down the page]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling down the page]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling down the page]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing PerformancePage]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Starting providing different code to the page]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing StatusCodesPage]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Status Code: 200]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing StatusCodesPage]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Status Code: 301]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing StatusCodesPage]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Status Code: 404]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+    <line>
+      <![CDATA[Browser is opening]]>
+    </line>
+    <line>
+      <![CDATA[login test started]]>
+    </line>
+    <line>
+      <![CDATA[firefox]]>
+    </line>
+    <line>
+      <![CDATA[Initializing StatusCodesPage]]>
+    </line>
+    <line>
+      <![CDATA[Clicking Status Code: 500]]>
+    </line>
+    <line>
+      <![CDATA[Test PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Browser is closing]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-01-19T18:42:14 IST" name="herokuapp Suite" finished-at="2026-01-19T18:51:59 IST" duration-ms="585827">
+    <groups>
+    </groups>
+    <test started-at="2026-01-19T18:42:14 IST" name="heroku chrome test" finished-at="2026-01-19T18:46:15 IST" duration-ms="241223">
+      <class name="herokuapp.pagestest.FT03_BasicAuthTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:42:51 IST" name="beforeClass" finished-at="2026-01-19T18:42:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:42:51 IST" name="beforeMethod" finished-at="2026-01-19T18:43:05 IST" duration-ms="13085" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBasicAuth(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:05 IST" name="verifyBasicAuth" data-provider="BasicAuthData" finished-at="2026-01-19T18:43:06 IST" duration-ms="1405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing Basic auth]]>
+            </line>
+            <line>
+              <![CDATA[Navigating with Basic Auth credentials]]>
+            </line>
+            <line>
+              <![CDATA[Validating success message]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBasicAuth -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:06 IST" name="afterMethod" finished-at="2026-01-19T18:43:06 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:07 IST" name="beforeMethod" finished-at="2026-01-19T18:43:12 IST" duration-ms="5918" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBasicAuth(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:12 IST" name="verifyBasicAuth" data-provider="BasicAuthData" finished-at="2026-01-19T18:43:14 IST" duration-ms="1229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrong]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing Basic auth]]>
+            </line>
+            <line>
+              <![CDATA[Navigating with Basic Auth credentials]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBasicAuth -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:14 IST" name="afterMethod" finished-at="2026-01-19T18:43:14 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:14 IST" name="beforeMethod" finished-at="2026-01-19T18:43:25 IST" duration-ms="11390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBasicAuth(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:25 IST" name="verifyBasicAuth" data-provider="BasicAuthData" finished-at="2026-01-19T18:43:28 IST" duration-ms="2780" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wrong]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing Basic auth]]>
+            </line>
+            <line>
+              <![CDATA[Navigating with Basic Auth credentials]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBasicAuth -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:28 IST" name="afterMethod" finished-at="2026-01-19T18:43:29 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:29 IST" name="beforeMethod" finished-at="2026-01-19T18:43:35 IST" duration-ms="6094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBasicAuth(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:35 IST" name="verifyBasicAuth" data-provider="BasicAuthData" finished-at="2026-01-19T18:43:36 IST" duration-ms="1248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing Basic auth]]>
+            </line>
+            <line>
+              <![CDATA[Navigating with Basic Auth credentials]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBasicAuth -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:36 IST" name="afterMethod" finished-at="2026-01-19T18:43:36 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:36 IST" name="beforeMethod" finished-at="2026-01-19T18:43:42 IST" duration-ms="6149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:42 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:43:43 IST" duration-ms="414" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:43 IST" name="afterMethod" finished-at="2026-01-19T18:43:43 IST" duration-ms="261" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT03_BasicAuthTest@3f390d63]" started-at="2026-01-19T18:43:43 IST" name="afterClass" finished-at="2026-01-19T18:43:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT03_BasicAuthTest -->
+      <class name="herokuapp.pagestest.FT01_ABTestingTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:14 IST" name="beforeClass" finished-at="2026-01-19T18:42:14 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:14 IST" name="beforeMethod" finished-at="2026-01-19T18:42:21 IST" duration-ms="6904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyHeadingText()[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:21 IST" name="verifyHeadingText" finished-at="2026-01-19T18:42:21 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing ABtesting]]>
+            </line>
+            <line>
+              <![CDATA[fetching heading text for abtesting]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHeadingText -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:21 IST" name="afterMethod" finished-at="2026-01-19T18:42:22 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:22 IST" name="beforeMethod" finished-at="2026-01-19T18:42:28 IST" duration-ms="6047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:28 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:42:28 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:28 IST" name="afterMethod" finished-at="2026-01-19T18:42:28 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae]" started-at="2026-01-19T18:42:28 IST" name="afterClass" finished-at="2026-01-19T18:42:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT01_ABTestingTest -->
+      <class name="herokuapp.pagestest.FT06_ContextMenuTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT06_ContextMenuTest@2374d36a]" started-at="2026-01-19T18:44:34 IST" name="beforeClass" finished-at="2026-01-19T18:44:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT06_ContextMenuTest@2374d36a]" started-at="2026-01-19T18:44:34 IST" name="beforeMethod" finished-at="2026-01-19T18:44:40 IST" duration-ms="5972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyContextMenuAlert()[pri:0, instance:herokuapp.pagestest.FT06_ContextMenuTest@2374d36a]" started-at="2026-01-19T18:44:40 IST" name="verifyContextMenuAlert" finished-at="2026-01-19T18:44:41 IST" duration-ms="795" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of the ContextMenuPage]]>
+            </line>
+            <line>
+              <![CDATA[Performing right click on the contextMenu]]>
+            </line>
+            <line>
+              <![CDATA[Started Handling the alert text]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyContextMenuAlert -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT06_ContextMenuTest@2374d36a]" started-at="2026-01-19T18:44:41 IST" name="afterMethod" finished-at="2026-01-19T18:44:41 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT06_ContextMenuTest@2374d36a]" started-at="2026-01-19T18:44:41 IST" name="afterClass" finished-at="2026-01-19T18:44:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT06_ContextMenuTest -->
+      <class name="herokuapp.pagestest.FT04_BrokenImageTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:43:43 IST" name="beforeClass" finished-at="2026-01-19T18:43:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:43:43 IST" name="beforeMethod" finished-at="2026-01-19T18:43:50 IST" duration-ms="6543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBrokenImages()[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:43:50 IST" name="verifyBrokenImages" finished-at="2026-01-19T18:43:51 IST" duration-ms="1005" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of Broken Image Test]]>
+            </line>
+            <line>
+              <![CDATA[Checking the Broken state of the images]]>
+            </line>
+            <line>
+              <![CDATA[Checking the Broken state of the images]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenImages -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:43:51 IST" name="afterMethod" finished-at="2026-01-19T18:43:51 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:43:51 IST" name="beforeMethod" finished-at="2026-01-19T18:43:59 IST" duration-ms="7297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:43:59 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:43:59 IST" duration-ms="753" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:44:00 IST" name="afterMethod" finished-at="2026-01-19T18:44:00 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT04_BrokenImageTest@74a6a609]" started-at="2026-01-19T18:44:00 IST" name="afterClass" finished-at="2026-01-19T18:44:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT04_BrokenImageTest -->
+      <class name="herokuapp.pagestest.FT08_DropDownTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:44:56 IST" name="beforeClass" finished-at="2026-01-19T18:44:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:44:56 IST" name="beforeMethod" finished-at="2026-01-19T18:45:33 IST" duration-ms="37074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyDropDown()[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:45:33 IST" name="verifyDropDown" finished-at="2026-01-19T18:45:34 IST" duration-ms="1304" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of Drop-Down Page]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the option from drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the option from drop down]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDropDown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:45:34 IST" name="afterMethod" finished-at="2026-01-19T18:45:34 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:45:34 IST" name="beforeMethod" finished-at="2026-01-19T18:45:40 IST" duration-ms="5619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:45:40 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:45:41 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:45:41 IST" name="afterMethod" finished-at="2026-01-19T18:45:41 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT08_DropDownTest@1506f20f]" started-at="2026-01-19T18:45:41 IST" name="afterClass" finished-at="2026-01-19T18:45:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT08_DropDownTest -->
+      <class name="herokuapp.pagestest.FT10_DynamicLoadingTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT10_DynamicLoadingTest@424fd310]" started-at="2026-01-19T18:45:48 IST" name="beforeClass" finished-at="2026-01-19T18:45:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT10_DynamicLoadingTest@424fd310]" started-at="2026-01-19T18:45:48 IST" name="beforeMethod" finished-at="2026-01-19T18:46:08 IST" duration-ms="19932" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyDynamicLoadingFlow()[pri:0, instance:herokuapp.pagestest.FT10_DynamicLoadingTest@424fd310]" started-at="2026-01-19T18:46:08 IST" name="verifyDynamicLoadingFlow" finished-at="2026-01-19T18:46:14 IST" duration-ms="6619" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing DynamicLoadingPage]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Start button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for loading to finish]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for finish text]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicLoadingFlow -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT10_DynamicLoadingTest@424fd310]" started-at="2026-01-19T18:46:15 IST" name="afterMethod" finished-at="2026-01-19T18:46:15 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT10_DynamicLoadingTest@424fd310]" started-at="2026-01-19T18:46:15 IST" name="afterClass" finished-at="2026-01-19T18:46:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT10_DynamicLoadingTest -->
+      <class name="herokuapp.pagestest.FT05_CheckBoxTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:00 IST" name="beforeClass" finished-at="2026-01-19T18:44:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:00 IST" name="beforeMethod" finished-at="2026-01-19T18:44:16 IST" duration-ms="16446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyCheckBoxes()[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:16 IST" name="verifyCheckBoxes" finished-at="2026-01-19T18:44:17 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of CheckBox Method]]>
+            </line>
+            <line>
+              <![CDATA[Selecting checkBox at index : 0]]>
+            </line>
+            <line>
+              <![CDATA[CheckBox is selected at Index: 0]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBoxes -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:17 IST" name="afterMethod" finished-at="2026-01-19T18:44:17 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:17 IST" name="beforeMethod" finished-at="2026-01-19T18:44:33 IST" duration-ms="15944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:33 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:44:34 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:34 IST" name="afterMethod" finished-at="2026-01-19T18:44:34 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT05_CheckBoxTest@5a411614]" started-at="2026-01-19T18:44:34 IST" name="afterClass" finished-at="2026-01-19T18:44:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT05_CheckBoxTest -->
+      <class name="herokuapp.pagestest.FT07_DragDropTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT07_DragDropTest@54d18072]" started-at="2026-01-19T18:44:41 IST" name="beforeClass" finished-at="2026-01-19T18:44:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT07_DragDropTest@54d18072]" started-at="2026-01-19T18:44:41 IST" name="beforeMethod" finished-at="2026-01-19T18:44:54 IST" duration-ms="12662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyDragAndDrop()[pri:0, instance:herokuapp.pagestest.FT07_DragDropTest@54d18072]" started-at="2026-01-19T18:44:54 IST" name="verifyDragAndDrop" finished-at="2026-01-19T18:44:55 IST" duration-ms="927" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing DragDropPage]]>
+            </line>
+            <line>
+              <![CDATA[Performing Drag and Drop A to B]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDragAndDrop -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT07_DragDropTest@54d18072]" started-at="2026-01-19T18:44:55 IST" name="afterMethod" finished-at="2026-01-19T18:44:56 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT07_DragDropTest@54d18072]" started-at="2026-01-19T18:44:56 IST" name="afterClass" finished-at="2026-01-19T18:44:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT07_DragDropTest -->
+      <class name="herokuapp.pagestest.FT09_DynamicControlTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT09_DynamicControlTest@47a5b70d]" started-at="2026-01-19T18:45:41 IST" name="beforeClass" finished-at="2026-01-19T18:45:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT09_DynamicControlTest@47a5b70d]" started-at="2026-01-19T18:45:41 IST" name="beforeMethod" finished-at="2026-01-19T18:45:44 IST" duration-ms="2940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyDynamicControls()[pri:0, instance:herokuapp.pagestest.FT09_DynamicControlTest@47a5b70d]" started-at="2026-01-19T18:45:44 IST" name="verifyDynamicControls" finished-at="2026-01-19T18:45:47 IST" duration-ms="3037" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"Dynamic Controls"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96e1fc887a61684240e99f7aff27544d, findElement {value=Dynamic Controls, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\VIDHIY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65502}, goog:processID: 9728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65502/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96e1fc887a61684240e99f7aff27544d]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Dynamic Controls"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96e1fc887a61684240e99f7aff27544d, findElement {value=Dynamic Controls, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\VIDHIY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65502}, goog:processID: 9728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65502/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96e1fc887a61684240e99f7aff27544d
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at herokuapp.pagestest.FT09_DynamicControlTest.verifyDynamicControls(FT09_DynamicControlTest.java:16)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test FAILED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDynamicControls -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT09_DynamicControlTest@47a5b70d]" started-at="2026-01-19T18:45:48 IST" name="afterMethod" finished-at="2026-01-19T18:45:48 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT09_DynamicControlTest@47a5b70d]" started-at="2026-01-19T18:45:48 IST" name="afterClass" finished-at="2026-01-19T18:45:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT09_DynamicControlTest -->
+      <class name="herokuapp.pagestest.FT02_AddRemoveTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:28 IST" name="beforeClass" finished-at="2026-01-19T18:42:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:28 IST" name="beforeMethod" finished-at="2026-01-19T18:42:36 IST" duration-ms="7874" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAddRemoveTest()[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:36 IST" name="verifyAddRemoveTest" finished-at="2026-01-19T18:42:44 IST" duration-ms="7442" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing Add Remove Page]]>
+            </line>
+            <line>
+              <![CDATA[Initialization of Add Button]]>
+            </line>
+            <line>
+              <![CDATA[Initialization of Add Button]]>
+            </line>
+            <line>
+              <![CDATA[Initialization of Add Button]]>
+            </line>
+            <line>
+              <![CDATA[Deleting all delete Button]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAddRemoveTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:44 IST" name="afterMethod" finished-at="2026-01-19T18:42:44 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:44 IST" name="beforeMethod" finished-at="2026-01-19T18:42:51 IST" duration-ms="6340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:51 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:42:51 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:51 IST" name="afterMethod" finished-at="2026-01-19T18:42:51 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT02_AddRemoveTest@14dda234]" started-at="2026-01-19T18:42:51 IST" name="afterClass" finished-at="2026-01-19T18:42:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT02_AddRemoveTest -->
+    </test> <!-- heroku chrome test -->
+    <test started-at="2026-01-19T18:46:15 IST" name="heroku Firefox test" finished-at="2026-01-19T18:51:59 IST" duration-ms="344564">
+      <class name="herokuapp.pagestest.FT16_LoginFormTest">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:47:54 IST" name="beforeMethod" finished-at="2026-01-19T18:48:03 IST" duration-ms="8541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:47:54 IST" name="beforeClass" finished-at="2026-01-19T18:47:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="verifyLoginCredentials(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:03 IST" name="verifyLoginCredentials" data-provider="LoginForm" finished-at="2026-01-19T18:48:06 IST" duration-ms="2927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of LoginForm Page Authentication]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginCredentials -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:06 IST" name="afterMethod" finished-at="2026-01-19T18:48:07 IST" duration-ms="1560" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:07 IST" name="beforeMethod" finished-at="2026-01-19T18:48:16 IST" duration-ms="8475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginCredentials(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:16 IST" name="verifyLoginCredentials" data-provider="LoginForm" finished-at="2026-01-19T18:48:18 IST" duration-ms="1957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wrongPass]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of LoginForm Page Authentication]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginCredentials -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:18 IST" name="afterMethod" finished-at="2026-01-19T18:48:20 IST" duration-ms="1546" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:20 IST" name="beforeMethod" finished-at="2026-01-19T18:48:29 IST" duration-ms="9100" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginCredentials(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:29 IST" name="verifyLoginCredentials" data-provider="LoginForm" finished-at="2026-01-19T18:48:31 IST" duration-ms="2112" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wrongUser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of LoginForm Page Authentication]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginCredentials -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:31 IST" name="afterMethod" finished-at="2026-01-19T18:48:32 IST" duration-ms="1531" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:32 IST" name="beforeMethod" finished-at="2026-01-19T18:48:43 IST" duration-ms="11089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginCredentials(java.lang.String,java.lang.String,boolean)[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:43 IST" name="verifyLoginCredentials" data-provider="LoginForm" finished-at="2026-01-19T18:48:45 IST" duration-ms="2023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initialization of LoginForm Page Authentication]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginCredentials -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:45 IST" name="afterMethod" finished-at="2026-01-19T18:48:47 IST" duration-ms="1570" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT16_LoginFormTest@72ea6193]" started-at="2026-01-19T18:48:47 IST" name="afterClass" finished-at="2026-01-19T18:48:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT16_LoginFormTest -->
+      <class name="herokuapp.pagestest.FT12_TyposTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT12_TyposTest@40f70521]" started-at="2026-01-19T18:46:26 IST" name="beforeClass" finished-at="2026-01-19T18:46:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT12_TyposTest@40f70521]" started-at="2026-01-19T18:46:26 IST" name="beforeMethod" finished-at="2026-01-19T18:46:46 IST" duration-ms="19664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyNoTypoInParagraph()[pri:0, instance:herokuapp.pagestest.FT12_TyposTest@40f70521]" started-at="2026-01-19T18:46:46 IST" name="verifyNoTypoInParagraph" finished-at="2026-01-19T18:46:47 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing TyposPage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyNoTypoInParagraph -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT12_TyposTest@40f70521]" started-at="2026-01-19T18:46:47 IST" name="afterMethod" finished-at="2026-01-19T18:46:48 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT12_TyposTest@40f70521]" started-at="2026-01-19T18:46:48 IST" name="afterClass" finished-at="2026-01-19T18:46:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT12_TyposTest -->
+      <class name="herokuapp.pagestest.FT18_HoversTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:17 IST" name="beforeClass" finished-at="2026-01-19T18:49:17 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:17 IST" name="beforeMethod" finished-at="2026-01-19T18:49:27 IST" duration-ms="9644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyHoverUserProfile()[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:27 IST" name="verifyHoverUserProfile" finished-at="2026-01-19T18:49:28 IST" duration-ms="1698" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing HoversPage]]>
+            </line>
+            <line>
+              <![CDATA[Hovering over user index: 0]]>
+            </line>
+            <line>
+              <![CDATA[Hovering over user index: 1]]>
+            </line>
+            <line>
+              <![CDATA[Hovering over user index: 2]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyHoverUserProfile -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:28 IST" name="afterMethod" finished-at="2026-01-19T18:49:30 IST" duration-ms="1960" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:30 IST" name="beforeMethod" finished-at="2026-01-19T18:49:48 IST" duration-ms="17387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:48 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:49:49 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:49 IST" name="afterMethod" finished-at="2026-01-19T18:49:50 IST" duration-ms="1844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT18_HoversTest@45905bff]" started-at="2026-01-19T18:49:50 IST" name="afterClass" finished-at="2026-01-19T18:49:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT18_HoversTest -->
+      <class name="herokuapp.pagestest.FT13_FileUploadTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:46:48 IST" name="beforeClass" finished-at="2026-01-19T18:46:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:46:48 IST" name="beforeMethod" finished-at="2026-01-19T18:46:57 IST" duration-ms="8624" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFileUpload()[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:46:57 IST" name="verifyFileUpload" finished-at="2026-01-19T18:46:59 IST" duration-ms="1511" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing FileUploadPage]]>
+            </line>
+            <line>
+              <![CDATA[Uploading file: C:\Projects\Sample.txt.txt]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Upload button]]>
+            </line>
+            <line>
+              <![CDATA[Uploaded file name: Sample.txt.txt]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFileUpload -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:46:59 IST" name="afterMethod" finished-at="2026-01-19T18:47:00 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:47:00 IST" name="beforeMethod" finished-at="2026-01-19T18:47:09 IST" duration-ms="9475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:47:09 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:47:10 IST" duration-ms="771" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:47:10 IST" name="afterMethod" finished-at="2026-01-19T18:47:12 IST" duration-ms="1493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT13_FileUploadTest@774698ab]" started-at="2026-01-19T18:47:12 IST" name="afterClass" finished-at="2026-01-19T18:47:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT13_FileUploadTest -->
+      <class name="herokuapp.pagestest.FT15_FloatingMenuTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT15_FloatingMenuTest@a4ca3f6]" started-at="2026-01-19T18:47:39 IST" name="beforeClass" finished-at="2026-01-19T18:47:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT15_FloatingMenuTest@a4ca3f6]" started-at="2026-01-19T18:47:39 IST" name="beforeMethod" finished-at="2026-01-19T18:47:52 IST" duration-ms="12742" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFloatingMenuStaysVisible()[pri:0, instance:herokuapp.pagestest.FT15_FloatingMenuTest@a4ca3f6]" started-at="2026-01-19T18:47:52 IST" name="verifyFloatingMenuStaysVisible" finished-at="2026-01-19T18:47:53 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing FloatingMenuPage]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling page by: 800]]>
+            </line>
+            <line>
+              <![CDATA[Checking if floating menu is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling page by: -800]]>
+            </line>
+            <line>
+              <![CDATA[Checking if floating menu is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFloatingMenuStaysVisible -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT15_FloatingMenuTest@a4ca3f6]" started-at="2026-01-19T18:47:53 IST" name="afterMethod" finished-at="2026-01-19T18:47:54 IST" duration-ms="1482" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT15_FloatingMenuTest@a4ca3f6]" started-at="2026-01-19T18:47:54 IST" name="afterClass" finished-at="2026-01-19T18:47:54 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT15_FloatingMenuTest -->
+      <class name="herokuapp.pagestest.FT11_EntryAdTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT11_EntryAdTest@aeab9a1]" started-at="2026-01-19T18:46:15 IST" name="beforeClass" finished-at="2026-01-19T18:46:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT11_EntryAdTest@aeab9a1]" started-at="2026-01-19T18:46:15 IST" name="beforeMethod" finished-at="2026-01-19T18:46:24 IST" duration-ms="8679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyEntryAdPopup()[pri:0, instance:herokuapp.pagestest.FT11_EntryAdTest@aeab9a1]" started-at="2026-01-19T18:46:24 IST" name="verifyEntryAdPopup" finished-at="2026-01-19T18:46:25 IST" duration-ms="1321" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing EntryAdPage]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for modal popup]]>
+            </line>
+            <line>
+              <![CDATA[Closing modal popup]]>
+            </line>
+            <line>
+              <![CDATA[Checking if modal popup is closed]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEntryAdPopup -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT11_EntryAdTest@aeab9a1]" started-at="2026-01-19T18:46:25 IST" name="afterMethod" finished-at="2026-01-19T18:46:26 IST" duration-ms="1574" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT11_EntryAdTest@aeab9a1]" started-at="2026-01-19T18:46:26 IST" name="afterClass" finished-at="2026-01-19T18:46:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT11_EntryAdTest -->
+      <class name="herokuapp.pagestest.FT19_InfiniteScrollTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT19_InfiniteScrollTest@2a2c13a8]" started-at="2026-01-19T18:49:50 IST" name="beforeClass" finished-at="2026-01-19T18:49:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT19_InfiniteScrollTest@2a2c13a8]" started-at="2026-01-19T18:49:50 IST" name="beforeMethod" finished-at="2026-01-19T18:50:00 IST" duration-ms="9470" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyInfiniteScrollLoadsMoreContent()[pri:0, instance:herokuapp.pagestest.FT19_InfiniteScrollTest@2a2c13a8]" started-at="2026-01-19T18:50:00 IST" name="verifyInfiniteScrollLoadsMoreContent" finished-at="2026-01-19T18:50:05 IST" duration-ms="5155" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing InfiniteScrollPage]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling down the page]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling down the page]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling down the page]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling down the page]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyInfiniteScrollLoadsMoreContent -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT19_InfiniteScrollTest@2a2c13a8]" started-at="2026-01-19T18:50:05 IST" name="afterMethod" finished-at="2026-01-19T18:50:07 IST" duration-ms="2028" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT19_InfiniteScrollTest@2a2c13a8]" started-at="2026-01-19T18:50:07 IST" name="afterClass" finished-at="2026-01-19T18:50:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT19_InfiniteScrollTest -->
+      <class name="herokuapp.pagestest.FT14_FileDownloadTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:12 IST" name="beforeClass" finished-at="2026-01-19T18:47:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:12 IST" name="beforeMethod" finished-at="2026-01-19T18:47:20 IST" duration-ms="8385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFileDownloadLink()[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:20 IST" name="verifyFileDownloadLink" finished-at="2026-01-19T18:47:26 IST" duration-ms="5830" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing FileDownloadPage]]>
+            </line>
+            <line>
+              <![CDATA[Download link: https://the-internet.herokuapp.com/download/some-file.txt]]>
+            </line>
+            <line>
+              <![CDATA[Clicking file download link]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFileDownloadLink -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:26 IST" name="afterMethod" finished-at="2026-01-19T18:47:28 IST" duration-ms="1679" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:28 IST" name="beforeMethod" finished-at="2026-01-19T18:47:37 IST" duration-ms="9021" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:37 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:47:37 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:37 IST" name="afterMethod" finished-at="2026-01-19T18:47:39 IST" duration-ms="1473" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT14_FileDownloadTest@55342f40]" started-at="2026-01-19T18:47:39 IST" name="afterClass" finished-at="2026-01-19T18:47:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT14_FileDownloadTest -->
+      <class name="herokuapp.pagestest.FT20_StatusCodesTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:07 IST" name="beforeClass" finished-at="2026-01-19T18:50:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:07 IST" name="beforeMethod" finished-at="2026-01-19T18:50:23 IST" duration-ms="15826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyPageLoadsUnder3Seconds()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:23 IST" name="verifyPageLoadsUnder3Seconds" finished-at="2026-01-19T18:50:24 IST" duration-ms="525" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing PerformancePage]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadsUnder3Seconds -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:24 IST" name="afterMethod" finished-at="2026-01-19T18:50:25 IST" duration-ms="1839" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:25 IST" name="beforeMethod" finished-at="2026-01-19T18:50:35 IST" duration-ms="9614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyStatusCodeMessage(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:35 IST" name="verifyStatusCodeMessage" data-provider="StatusCode" finished-at="2026-01-19T18:50:37 IST" duration-ms="1482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing StatusCodesPage]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Status Code: 200]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCodeMessage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:37 IST" name="afterMethod" finished-at="2026-01-19T18:50:39 IST" duration-ms="1908" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:39 IST" name="beforeMethod" finished-at="2026-01-19T18:50:52 IST" duration-ms="13937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyStatusCodeMessage(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:52 IST" name="verifyStatusCodeMessage" data-provider="StatusCode" finished-at="2026-01-19T18:50:54 IST" duration-ms="1443" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[301]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing StatusCodesPage]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Status Code: 301]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCodeMessage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:54 IST" name="afterMethod" finished-at="2026-01-19T18:50:56 IST" duration-ms="1826" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:50:56 IST" name="beforeMethod" finished-at="2026-01-19T18:51:28 IST" duration-ms="31757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyStatusCodeMessage(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:51:28 IST" name="verifyStatusCodeMessage" data-provider="StatusCode" finished-at="2026-01-19T18:51:29 IST" duration-ms="1580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[404]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing StatusCodesPage]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Status Code: 404]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCodeMessage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:51:29 IST" name="afterMethod" finished-at="2026-01-19T18:51:31 IST" duration-ms="1843" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:51:31 IST" name="beforeMethod" finished-at="2026-01-19T18:51:56 IST" duration-ms="24837" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyStatusCodeMessage(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:51:56 IST" name="verifyStatusCodeMessage" data-provider="StatusCode" finished-at="2026-01-19T18:51:57 IST" duration-ms="1612" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing StatusCodesPage]]>
+            </line>
+            <line>
+              <![CDATA[Clicking Status Code: 500]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCodeMessage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:51:58 IST" name="afterMethod" finished-at="2026-01-19T18:51:59 IST" duration-ms="1886" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT20_StatusCodesTest@b6b1987]" started-at="2026-01-19T18:51:59 IST" name="afterClass" finished-at="2026-01-19T18:51:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT20_StatusCodesTest -->
+      <class name="herokuapp.pagestest.FT17_HorizontalSliderTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:herokuapp.pagestest.FT17_HorizontalSliderTest@31aa3ca5]" started-at="2026-01-19T18:48:47 IST" name="beforeClass" finished-at="2026-01-19T18:48:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.String)[pri:0, instance:herokuapp.pagestest.FT17_HorizontalSliderTest@31aa3ca5]" started-at="2026-01-19T18:48:47 IST" name="beforeMethod" finished-at="2026-01-19T18:49:14 IST" duration-ms="26550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is opening]]>
+            </line>
+            <line>
+              <![CDATA[login test started]]>
+            </line>
+            <line>
+              <![CDATA[firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifySliderMovesUsingActions()[pri:0, instance:herokuapp.pagestest.FT17_HorizontalSliderTest@31aa3ca5]" started-at="2026-01-19T18:49:14 IST" name="verifySliderMovesUsingActions" finished-at="2026-01-19T18:49:15 IST" duration-ms="1432" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Initializing HorizontalSliderPage]]>
+            </line>
+            <line>
+              <![CDATA[Moving slider to value (via Actions): 5]]>
+            </line>
+            <line>
+              <![CDATA[Moved slider using Actions successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySliderMovesUsingActions -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:herokuapp.pagestest.FT17_HorizontalSliderTest@31aa3ca5]" started-at="2026-01-19T18:49:15 IST" name="afterMethod" finished-at="2026-01-19T18:49:17 IST" duration-ms="1818" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:herokuapp.pagestest.FT17_HorizontalSliderTest@31aa3ca5]" started-at="2026-01-19T18:49:17 IST" name="afterClass" finished-at="2026-01-19T18:49:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- herokuapp.pagestest.FT17_HorizontalSliderTest -->
+    </test> <!-- heroku Firefox test -->
+  </suite> <!-- herokuapp Suite -->
+</testng-results>

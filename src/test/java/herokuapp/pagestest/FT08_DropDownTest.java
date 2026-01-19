@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.DropDownPage;
+import herokuapp.pages.PerformancePage;
 
 public class FT08_DropDownTest extends BaseTest {
 
@@ -28,6 +29,17 @@ public class FT08_DropDownTest extends BaseTest {
 
         Assert.assertEquals(dp.getSelectedText(), "Option 2", "Expected option 2 but not found");
 
+    }
+
+    @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/dropdown");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
 
 }

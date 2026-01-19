@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="TestSuite" time="587.238" tests="39" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="surefire.suiteXmlFiles" value="C://Projects//automation_project_pom_arch//testng1.xml"/>
+    <property name="java.specification.version" value="21"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\VIDHI YADAV\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Projects\automation_project_pom_arch\target\test-classes;C:\Projects\automation_project_pom_arch\target\classes;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-java\4.38.0\selenium-java-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-api\4.38.0\selenium-api-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.38.0\selenium-chrome-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.38.0\selenium-chromium-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-json\4.38.0\selenium-json-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.38.0\selenium-manager-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v140\4.38.0\selenium-devtools-v140-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v141\4.38.0\selenium-devtools-v141-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v142\4.38.0\selenium-devtools-v142-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.38.0\selenium-edge-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.38.0\selenium-firefox-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-http\4.38.0\selenium-http-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.38.0\selenium-ie-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.38.0\selenium-remote-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-api\1.55.0\opentelemetry-api-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-context\1.55.0\opentelemetry-context-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-common\1.55.0\opentelemetry-common-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.55.0\opentelemetry-exporter-logging-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.55.0\opentelemetry-sdk-common-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.55.0\opentelemetry-sdk-extension-autoconfigure-spi-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.55.0\opentelemetry-sdk-extension-autoconfigure-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.55.0\opentelemetry-sdk-trace-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.55.0\opentelemetry-sdk-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.55.0\opentelemetry-sdk-metrics-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.55.0\opentelemetry-sdk-logs-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\net\bytebuddy\byte-buddy\1.17.8\byte-buddy-1.17.8.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-os\4.38.0\selenium-os-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-exec\1.5.0\commons-exec-1.5.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.38.0\selenium-safari-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-support\4.38.0\selenium-support-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\rest-assured\5.5.6\rest-assured-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\VIDHI YADAV\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\VIDHI YADAV\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\json-path\5.5.6\json-path-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\rest-assured-common\5.5.6\rest-assured-common-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\xml-path\5.5.6\xml-path-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\VIDHI YADAV\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\VIDHI YADAV\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-java\7.32.0\cucumber-java-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-core\7.32.0\cucumber-core-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-gherkin\7.32.0\cucumber-gherkin-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.32.0\cucumber-gherkin-messages-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\gherkin\36.1.0\gherkin-36.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\messages\30.1.0\messages-30.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\pretty-formatter\2.4.1\pretty-formatter-2.4.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\query\14.7.0\query-14.7.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\teamcity-formatter\0.2.0\teamcity-formatter-0.2.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\testng-xml-formatter\0.7.0\testng-xml-formatter-0.7.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\usage-formatter\0.1.0\usage-formatter-0.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\tag-expressions\8.0.0\tag-expressions-8.0.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-json-formatter\0.3.1\cucumber-json-formatter-0.3.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\datatable\7.32.0\datatable-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-plugin\7.32.0\cucumber-plugin-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\docstring\7.32.0\docstring-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\html-formatter\22.1.0\html-formatter-22.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\junit-xml-formatter\0.11.0\junit-xml-formatter-0.11.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\ci-environment\12.0.0\ci-environment-12.0.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\poi\poi\5.5.0\poi-5.5.0.jar;C:\Users\VIDHI YADAV\.m2\repository\commons-codec\commons-codec\1.19.0\commons-codec-1.19.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-collections4\4.5.0\commons-collections4-4.5.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\VIDHI YADAV\.m2\repository\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\mysql\mysql-connector-j\9.4.0\mysql-connector-j-9.4.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\protobuf\protobuf-java\4.31.1\protobuf-java-4.31.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\github\bonigarcia\webdrivermanager\5.6.3\webdrivermanager-5.6.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java\3.3.4\docker-java-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-core\3.3.4\docker-java-core-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-api\3.3.4\docker-java-api-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\VIDHI YADAV\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\VIDHI YADAV\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\VIDHI YADAV\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\VIDHI YADAV\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.4\docker-java-transport-httpclient5-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-transport\3.3.4\docker-java-transport-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\VIDHI YADAV\AppData\Local\Temp\surefire11157319236569612954\surefirebooter-20260119184212538_3.jar C:\Users\VIDHI YADAV\AppData\Local\Temp\surefire11157319236569612954 2026-01-19T18-42-12_355-jvmRun1 surefire-20260119184212538_1tmp surefire_0-20260119184212538_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Projects\automation_project_pom_arch\target\test-classes;C:\Projects\automation_project_pom_arch\target\classes;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-java\4.38.0\selenium-java-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-api\4.38.0\selenium-api-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.38.0\selenium-chrome-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.38.0\selenium-chromium-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-json\4.38.0\selenium-json-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.38.0\selenium-manager-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v140\4.38.0\selenium-devtools-v140-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v141\4.38.0\selenium-devtools-v141-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v142\4.38.0\selenium-devtools-v142-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.38.0\selenium-edge-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.38.0\selenium-firefox-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-http\4.38.0\selenium-http-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.38.0\selenium-ie-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.38.0\selenium-remote-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\guava\guava\33.5.0-jre\guava-33.5.0-jre.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\errorprone\error_prone_annotations\2.41.0\error_prone_annotations-2.41.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\j2objc\j2objc-annotations\3.1\j2objc-annotations-3.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-api\1.55.0\opentelemetry-api-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-context\1.55.0\opentelemetry-context-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-common\1.55.0\opentelemetry-common-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.55.0\opentelemetry-exporter-logging-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.55.0\opentelemetry-sdk-common-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.55.0\opentelemetry-sdk-extension-autoconfigure-spi-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.55.0\opentelemetry-sdk-extension-autoconfigure-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.55.0\opentelemetry-sdk-trace-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.55.0\opentelemetry-sdk-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.55.0\opentelemetry-sdk-metrics-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.55.0\opentelemetry-sdk-logs-1.55.0.jar;C:\Users\VIDHI YADAV\.m2\repository\net\bytebuddy\byte-buddy\1.17.8\byte-buddy-1.17.8.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-os\4.38.0\selenium-os-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-exec\1.5.0\commons-exec-1.5.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.38.0\selenium-safari-driver-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\seleniumhq\selenium\selenium-support\4.38.0\selenium-support-4.38.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\rest-assured\5.5.6\rest-assured-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\VIDHI YADAV\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\VIDHI YADAV\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\json-path\5.5.6\json-path-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\rest-assured-common\5.5.6\rest-assured-common-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\io\rest-assured\xml-path\5.5.6\xml-path-5.5.6.jar;C:\Users\VIDHI YADAV\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\VIDHI YADAV\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\VIDHI YADAV\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-java\7.32.0\cucumber-java-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-core\7.32.0\cucumber-core-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-gherkin\7.32.0\cucumber-gherkin-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.32.0\cucumber-gherkin-messages-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\gherkin\36.1.0\gherkin-36.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\messages\30.1.0\messages-30.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\pretty-formatter\2.4.1\pretty-formatter-2.4.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\query\14.7.0\query-14.7.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\teamcity-formatter\0.2.0\teamcity-formatter-0.2.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\testng-xml-formatter\0.7.0\testng-xml-formatter-0.7.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\usage-formatter\0.1.0\usage-formatter-0.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\tag-expressions\8.0.0\tag-expressions-8.0.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-json-formatter\0.3.1\cucumber-json-formatter-0.3.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\datatable\7.32.0\datatable-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\cucumber-plugin\7.32.0\cucumber-plugin-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\docstring\7.32.0\docstring-7.32.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\html-formatter\22.1.0\html-formatter-22.1.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\junit-xml-formatter\0.11.0\junit-xml-formatter-0.11.0.jar;C:\Users\VIDHI YADAV\.m2\repository\io\cucumber\ci-environment\12.0.0\ci-environment-12.0.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\poi\poi\5.5.0\poi-5.5.0.jar;C:\Users\VIDHI YADAV\.m2\repository\commons-codec\commons-codec\1.19.0\commons-codec-1.19.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-collections4\4.5.0\commons-collections4-4.5.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\VIDHI YADAV\.m2\repository\commons-io\commons-io\2.20.0\commons-io-2.20.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\mysql\mysql-connector-j\9.4.0\mysql-connector-j-9.4.0.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\protobuf\protobuf-java\4.31.1\protobuf-java-4.31.1.jar;C:\Users\VIDHI YADAV\.m2\repository\io\github\bonigarcia\webdrivermanager\5.6.3\webdrivermanager-5.6.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java\3.3.4\docker-java-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-core\3.3.4\docker-java-core-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-api\3.3.4\docker-java-api-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\VIDHI YADAV\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\VIDHI YADAV\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\VIDHI YADAV\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\VIDHI YADAV\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\VIDHI YADAV\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.4\docker-java-transport-httpclient5-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\com\github\docker-java\docker-java-transport\3.3.4\docker-java-transport-3.3.4.jar;C:\Users\VIDHI YADAV\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\commons\commons-compress\1.25.0\commons-compress-1.25.0.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar;C:\Users\VIDHI YADAV\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\VIDHI YADAV"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Projects\automation_project_pom_arch"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="name" value="value"/>
+    <property name="surefire.real.class.path" value="C:\Users\VIDHI YADAV\AppData\Local\Temp\surefire11157319236569612954\surefirebooter-20260119184212538_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.7+6-LTS"/>
+    <property name="user.name" value="VIDHI YADAV"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-21.0.7+6"/>
+    <property name="localRepository" value="C:\Users\VIDHI YADAV\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\VIDHIY~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.7"/>
+    <property name="user.dir" value="C:\Projects\automation_project_pom_arch"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="webdriver.gecko.driver" value="C:\Users\VIDHI YADAV\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\Users\VIDHI YADAV\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\VIDHI YADAV\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Users\VIDHI YADAV\.tools\maven\apache-maven-3.9.8\bin;C:\Users\VIDHI YADAV\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\VIDHI YADAV\AppData\Local\Programs\Python\Python311\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\VIDHI YADAV\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Python313\Scripts;C:\Program Files\Python313;C:\Users\VIDHI YADAV\AppData\Roaming\npm;C:\Users\VIDHI YADAV\.tools\maven\apache-maven-3.9.8\bin;C:\Users\VIDHI YADAV\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\VIDHI YADAV\.vscode\extensions\vscjava.vscode-java-debug-0.58.5\bundled\scripts\noConfigScripts;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="21.0.7+6-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="verifyHeadingText" classname="herokuapp.pagestest.FT01_ABTestingTest" time="0.82">
+    <system-out><![CDATA[Browser is opening
+login test started
+chrome
+Initializing ABtesting
+fetching heading text for abtesting
+18:42:21 INFO  [ABTestingPage] - Heading Text: A/B Test Variation 1
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Jan 19, 2026 6:42:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT01_ABTestingTest" time="0.561">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:42:23 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyAddRemoveTest" classname="herokuapp.pagestest.FT02_AddRemoveTest" time="7.594">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing Add Remove Page
+Initialization of Add Button
+18:42:37 INFO  [AddRemovePage] - Add button clicked
+Initialization of Add Button
+18:42:37 INFO  [AddRemovePage] - Add button clicked
+Initialization of Add Button
+18:42:37 INFO  [AddRemovePage] - Add button clicked
+Deleting all delete Button
+18:42:37 INFO  [AddRemovePage] - One delete button removed
+18:42:38 INFO  [AddRemovePage] - One delete button removed
+18:42:38 INFO  [AddRemovePage] - One delete button removed
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:42:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT02_AddRemoveTest" time="0.608">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:42:45 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyBasicAuth[admin, admin, true](1)" classname="herokuapp.pagestest.FT03_BasicAuthTest" time="1.552">
+    <system-out><![CDATA[Browser is closing
+Start Inserting Values for BasicAuth
+Browser is opening
+login test started
+chrome
+Initializing Basic auth
+Navigating with Basic Auth credentials
+18:43:06 INFO  [BasicAuthPage] - Navigated with: admin/admin
+Validating success message
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:42:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyBasicAuth[wrong, admin, false](2)" classname="herokuapp.pagestest.FT03_BasicAuthTest" time="1.398">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing Basic auth
+Navigating with Basic Auth credentials
+18:43:14 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:43:07 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyBasicAuth[admin, wrong, false](3)" classname="herokuapp.pagestest.FT03_BasicAuthTest" time="2.934">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing Basic auth
+Navigating with Basic Auth credentials
+18:43:28 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:43:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyBasicAuth[user, pass, false](4)" classname="herokuapp.pagestest.FT03_BasicAuthTest" time="1.385">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing Basic auth
+Navigating with Basic Auth credentials
+18:43:36 INFO  [BasicAuthPage] - Navigated with: user/pass
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:43:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT03_BasicAuthTest" time="0.675">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:43:37 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyBrokenImages" classname="herokuapp.pagestest.FT04_BrokenImageTest" time="1.147">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initialization of Broken Image Test
+Checking the Broken state of the images
+18:43:51 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+Checking the Broken state of the images
+18:43:51 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:43:44 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT04_BrokenImageTest" time="0.909">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:43:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyCheckBoxes" classname="herokuapp.pagestest.FT05_CheckBoxTest" time="0.838">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initialization of CheckBox Method
+Selecting checkBox at index : 0
+18:44:17 INFO  [CheckBoxPage] - checkbox selected
+CheckBox is selected at Index: 0
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:44:01 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT05_CheckBoxTest" time="0.559">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:44:18 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyContextMenuAlert" classname="herokuapp.pagestest.FT06_ContextMenuTest" time="1.073">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initialization of the ContextMenuPage
+Performing right click on the contextMenu
+18:44:41 INFO  [ContextMenuPage] - Right click Performed
+Started Handling the alert text
+18:44:41 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:44:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyDragAndDrop" classname="herokuapp.pagestest.FT07_DragDropTest" time="1.06">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing DragDropPage
+Performing Drag and Drop A to B
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:44:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyDropDown" classname="herokuapp.pagestest.FT08_DropDownTest" time="1.426">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initialization of Drop-Down Page
+Selecting the option from drop down
+18:45:33 INFO  [DropDownPage] - Selected: Option 1
+18:45:34 INFO  [DropDownPage] - current selected option: Option 1
+Selecting the option from drop down
+18:45:34 INFO  [DropDownPage] - Selected: Option 2
+18:45:34 INFO  [DropDownPage] - current selected option: Option 2
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:44:56 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT08_DropDownTest" time="1.158">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:45:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyDynamicControls" classname="herokuapp.pagestest.FT09_DynamicControlTest" time="3.184">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Dynamic Controls&quot;}&#10;  (Session info: chrome=143.0.7499.193)&#10;For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception&#10;Build info: version: &apos;4.38.0&apos;, revision: &apos;6b412e825c*&apos;&#10;System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.7&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [96e1fc887a61684240e99f7aff27544d, findElement {value=Dynamic Controls, using=link text}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\VIDHIY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65502}, goog:processID: 9728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65502/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 96e1fc887a61684240e99f7aff27544d" type="org.openqa.selenium.NoSuchElementException"><![CDATA[org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"link text","selector":"Dynamic Controls"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [96e1fc887a61684240e99f7aff27544d, findElement {value=Dynamic Controls, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\VIDHIY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65502}, goog:processID: 9728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65502/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 96e1fc887a61684240e99f7aff27544d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at herokuapp.pagestest.FT09_DynamicControlTest.verifyDynamicControls(FT09_DynamicControlTest.java:16)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></failure>
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Test FAILED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:45:42 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyDynamicLoadingFlow" classname="herokuapp.pagestest.FT10_DynamicLoadingTest" time="6.759">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+chrome
+Initializing DynamicLoadingPage
+Clicking Start button
+18:46:09 INFO  [DynamicLoadingPage] - Start button clicked
+Waiting for loading to finish
+Waiting for finish text
+18:46:14 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+Test PASSED
+]]></system-out>
+    <system-err><![CDATA[Jan 19, 2026 6:45:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 143, returning the closest version; found: 142; Please update to a Selenium version that supports CDP version 143
+]]></system-err>
+  </testcase>
+  <testcase name="verifyEntryAdPopup" classname="herokuapp.pagestest.FT11_EntryAdTest" time="1.376">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing EntryAdPage
+Waiting for modal popup
+18:46:25 INFO  [EntryAdPage] - Modal popup is visible
+Closing modal popup
+18:46:25 INFO  [EntryAdPage] - Modal popup closed
+Checking if modal popup is closed
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyNoTypoInParagraph" classname="herokuapp.pagestest.FT12_TyposTest" time="0.868">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing TyposPage
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyFileUpload" classname="herokuapp.pagestest.FT13_FileUploadTest" time="1.553">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing FileUploadPage
+Uploading file: C:\Projects\Sample.txt.txt
+Clicking Upload button
+Uploaded file name: Sample.txt.txt
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT13_FileUploadTest" time="0.841">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyFileDownloadLink" classname="herokuapp.pagestest.FT14_FileDownloadTest" time="5.885">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing FileDownloadPage
+Download link: https://the-internet.herokuapp.com/download/some-file.txt
+Clicking file download link
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT14_FileDownloadTest" time="0.63">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyFloatingMenuStaysVisible" classname="herokuapp.pagestest.FT15_FloatingMenuTest" time="1.29">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing FloatingMenuPage
+Scrolling page by: 800
+18:47:53 INFO  [FloatingMenuPage] - Page scrolled
+Checking if floating menu is displayed
+18:47:53 INFO  [FloatingMenuPage] - Floating menu displayed: true
+Scrolling page by: -800
+18:47:53 INFO  [FloatingMenuPage] - Page scrolled
+Checking if floating menu is displayed
+18:47:53 INFO  [FloatingMenuPage] - Floating menu displayed: true
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyLoginCredentials[tomsmith, SuperSecretPassword!, true](1)" classname="herokuapp.pagestest.FT16_LoginFormTest" time="3.0">
+    <system-out><![CDATA[Browser is closing
+Starting Inserting values for Login Form
+Browser is opening
+login test started
+firefox
+Initialization of LoginForm Page Authentication
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyLoginCredentials[tomsmith, wrongPass, false](2)" classname="herokuapp.pagestest.FT16_LoginFormTest" time="2.007">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initialization of LoginForm Page Authentication
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyLoginCredentials[wrongUser, SuperSecretPassword!, false](3)" classname="herokuapp.pagestest.FT16_LoginFormTest" time="2.167">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initialization of LoginForm Page Authentication
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyLoginCredentials[, , false](4)" classname="herokuapp.pagestest.FT16_LoginFormTest" time="2.072">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initialization of LoginForm Page Authentication
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifySliderMovesUsingActions" classname="herokuapp.pagestest.FT17_HorizontalSliderTest" time="1.518">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing HorizontalSliderPage
+Moving slider to value (via Actions): 5
+Moved slider using Actions successfully
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyHoverUserProfile" classname="herokuapp.pagestest.FT18_HoversTest" time="1.755">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing HoversPage
+Hovering over user index: 0
+Hovering over user index: 1
+Hovering over user index: 2
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT18_HoversTest" time="0.914">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyInfiniteScrollLoadsMoreContent" classname="herokuapp.pagestest.FT19_InfiniteScrollTest" time="5.243">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing InfiniteScrollPage
+Scrolling down the page
+Scrolling down the page
+Scrolling down the page
+Scrolling down the page
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyPageLoadsUnder3Seconds" classname="herokuapp.pagestest.FT20_StatusCodesTest" time="0.607">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing PerformancePage
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyStatusCodeMessage[200](1)" classname="herokuapp.pagestest.FT20_StatusCodesTest" time="1.538">
+    <system-out><![CDATA[Browser is closing
+Starting providing different code to the page
+Browser is opening
+login test started
+firefox
+Initializing StatusCodesPage
+Clicking Status Code: 200
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyStatusCodeMessage[301](2)" classname="herokuapp.pagestest.FT20_StatusCodesTest" time="1.5">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing StatusCodesPage
+Clicking Status Code: 301
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyStatusCodeMessage[404](3)" classname="herokuapp.pagestest.FT20_StatusCodesTest" time="1.64">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing StatusCodesPage
+Clicking Status Code: 404
+Test PASSED
+]]></system-out>
+  </testcase>
+  <testcase name="verifyStatusCodeMessage[500](4)" classname="herokuapp.pagestest.FT20_StatusCodesTest" time="1.677">
+    <system-out><![CDATA[Browser is closing
+Browser is opening
+login test started
+firefox
+Initializing StatusCodesPage
+Clicking Status Code: 500
+Test PASSED
+]]></system-out>
+  </testcase>
+</testsuite>

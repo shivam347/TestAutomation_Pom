@@ -3,6 +3,8 @@ package herokuapp.pagestest;
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.FileDownloadPage;
+import herokuapp.pages.PerformancePage;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -28,5 +30,16 @@ public class FT14_FileDownloadTest extends BaseTest {
         page.clickDownloadFile();
 
         
+    }
+
+    @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/download");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
 }

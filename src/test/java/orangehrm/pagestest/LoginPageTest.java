@@ -12,7 +12,7 @@ import org.apache.logging.log4j.Logger;
 import org.testng.Reporter;
 
 public class LoginPageTest extends BaseTest {
-    private static final Logger log= LogManager.getLogger(LoginPageTest.class);
+    private static final Logger log = LogManager.getLogger(LoginPageTest.class);
     @Test(
         dataProvider = "loginData",
         dataProviderClass = LoginDataProvider.class

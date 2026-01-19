@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.BrokenImagePage;
+import herokuapp.pages.PerformancePage;
 
 public class FT04_BrokenImageTest extends BaseTest {
 
@@ -25,6 +26,17 @@ public class FT04_BrokenImageTest extends BaseTest {
         Assert.assertFalse(brokenImage.allImageLoaded(), "All images loaded Successfully");
 
 
+    }
+
+    @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/broken_images");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
     
 }

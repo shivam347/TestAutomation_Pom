@@ -6,7 +6,9 @@ import org.testng.annotations.Test;
 
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
+import herokuapp.pages.ABTestingPage;
 import herokuapp.pages.AddRemovePage;
+import herokuapp.pages.PerformancePage;
 
 public class FT02_AddRemoveTest extends BaseTest {
 
@@ -29,6 +31,17 @@ public class FT02_AddRemoveTest extends BaseTest {
         // Now call method which will delete all the Delete button
         page.deleteAllButton();
         Assert.assertEquals(page.getdeletebuttonCount(), 0, "No delete button is present");
+    }
+
+     @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/add_remove_elements/");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
 
 }

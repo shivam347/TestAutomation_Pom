@@ -13,7 +13,7 @@ import herokuapp.driver.DriverFactory;
 
 public class BaseTest {
 	protected WebDriver driver;
-
+	
 	@BeforeClass
 	public void beforeClass() {
 		try {

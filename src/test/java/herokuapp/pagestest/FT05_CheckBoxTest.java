@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import herokuapp.basetest.BaseTest;
 import herokuapp.driver.DriverFactory;
 import herokuapp.pages.CheckBoxPage;
+import herokuapp.pages.PerformancePage;
 
 public class FT05_CheckBoxTest extends BaseTest{
 
@@ -26,6 +27,18 @@ public class FT05_CheckBoxTest extends BaseTest{
         Assert.assertTrue(chkBox.selectedCheckBox(0), "Checkbox should be selected");
 
 
+    }
+
+
+    @Test
+    public void verifyPageLoadsUnder3Seconds() {
+
+        PerformancePage page = new PerformancePage(DriverFactory.getDriver());
+
+        long loadTime = page.measurePageLoadTime("https://the-internet.herokuapp.com/checkboxes");
+
+        Assert.assertTrue(loadTime < 3000,
+                "Page took too long to load. Time: " + loadTime + " ms");
     }
     
 }
