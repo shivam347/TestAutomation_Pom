@@ -1,8 +1,8 @@
 <suite name="herokuapp Suite">
 
-    <!-- <listeners>
+    <listeners>
         <listener class-name="herokuapp.listener.ScreenshotListener"/>
-    </listeners> -->
+    </listeners>
 
 
     <test name="heroku chrome test">
