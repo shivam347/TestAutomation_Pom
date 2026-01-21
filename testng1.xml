@@ -1,8 +1,8 @@
 <suite name="herokuapp Suite">
 
-    <listeners>
+    <!-- <listeners>
         <listener class-name="herokuapp.listener.ScreenshotListener"/>
-    </listeners>
+    </listeners> -->
 
 
     <test name="heroku chrome test">
@@ -18,8 +18,6 @@
             <class name="herokuapp.pagestest.FT08_DropDownTest" />
             <class name="herokuapp.pagestest.FT09_DynamicControlTest" />
             <class name="herokuapp.pagestest.FT10_DynamicLoadingTest" />
-            
-
 
 
         </classes>

@@ -393,3 +393,35 @@
 2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Floating menu displayed: true
 2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Page scrolled
 2026-01-19 18:47:53 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-21 18:44:12 INFO  [ABTestingPage] - Heading Text: A/B Test Control
+2026-01-21 18:44:24 INFO  [AddRemovePage] - Add button clicked
+2026-01-21 18:44:24 INFO  [AddRemovePage] - Add button clicked
+2026-01-21 18:44:24 INFO  [AddRemovePage] - Add button clicked
+2026-01-21 18:44:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-21 18:44:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-21 18:44:24 INFO  [AddRemovePage] - One delete button removed
+2026-01-21 18:44:47 INFO  [BasicAuthPage] - Navigated with: admin/admin
+2026-01-21 18:44:54 INFO  [BasicAuthPage] - Navigated with: wrong/admin
+2026-01-21 18:45:01 INFO  [BasicAuthPage] - Navigated with: admin/wrong
+2026-01-21 18:45:09 INFO  [BasicAuthPage] - Navigated with: user/pass
+2026-01-21 18:45:21 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-21 18:45:21 ERROR [BrokenImagePage] - Broken image foundhttps://the-internet.herokuapp.com/asdf.jpg
+2026-01-21 18:45:36 INFO  [CheckBoxPage] - checkbox selected
+2026-01-21 18:45:48 INFO  [ContextMenuPage] - Right click Performed
+2026-01-21 18:45:48 INFO  [ContextMenuPage] - Message Received: You selected a context menu
+2026-01-21 18:46:01 INFO  [DropDownPage] - Selected: Option 1
+2026-01-21 18:46:01 INFO  [DropDownPage] - current selected option: Option 1
+2026-01-21 18:46:01 INFO  [DropDownPage] - Selected: Option 2
+2026-01-21 18:46:01 INFO  [DropDownPage] - current selected option: Option 2
+2026-01-21 18:46:13 INFO  [DynamicControlPage] - Remove button is clicked
+2026-01-21 18:46:22 INFO  [DynamicControlPage] - Add button is clicked
+2026-01-21 18:46:25 INFO  [DynamicControlPage] - Clicked on Enabled button
+2026-01-21 18:46:29 INFO  [DynamicControlPage] - Clicked on Disabled Button
+2026-01-21 18:46:38 INFO  [DynamicLoadingPage] - Start button clicked
+2026-01-21 18:46:44 INFO  [DynamicLoadingPage] - 'Hello World!' text is visible
+2026-01-21 18:46:53 INFO  [EntryAdPage] - Modal popup is visible
+2026-01-21 18:46:53 INFO  [EntryAdPage] - Modal popup closed
+2026-01-21 18:48:10 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-21 18:48:10 INFO  [FloatingMenuPage] - Floating menu displayed: true
+2026-01-21 18:48:10 INFO  [FloatingMenuPage] - Page scrolled
+2026-01-21 18:48:10 INFO  [FloatingMenuPage] - Floating menu displayed: true

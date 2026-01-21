@@ -5,10 +5,13 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
+
+import utility.WaitUtil;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import herokuapp.util.WaitUtil;
+
 
 /* Abtesting means when user visit to the page it gets version A or version B , there is change
 in heading or text, this can be checked when you visit on two different browsers or use incognito mode

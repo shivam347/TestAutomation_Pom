@@ -1,8 +1,10 @@
 package herokuapp.pages;
 
-import herokuapp.util.WaitUtil;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import utility.WaitUtil;
 
 public class RenderingPage {
 

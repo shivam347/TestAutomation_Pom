@@ -7,7 +7,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 import orangehrm.configreader.ConfigReader;
-import orangehrm.driverfactory.DriverFactory;
+import utility.DriverFactory;
 import org.testng.Reporter;
 
 public class BaseTest {

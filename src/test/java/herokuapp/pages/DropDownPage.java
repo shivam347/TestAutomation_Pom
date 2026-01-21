@@ -9,7 +9,9 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Reporter;
 
-import herokuapp.util.WaitUtil;
+import utility.WaitUtil;
+
+
 
 public class DropDownPage {
 

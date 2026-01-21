@@ -1,4 +1,4 @@
-package herokuapp.driver;
+package utility;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import orangehrm.configreader.ConfigReader;

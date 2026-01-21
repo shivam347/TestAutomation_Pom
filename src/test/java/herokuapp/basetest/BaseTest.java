@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 
 import herokuapp.configreader.ConfigReader;
-import herokuapp.driver.DriverFactory;
+import utility.DriverFactory;
 
 public class BaseTest {
 	protected WebDriver driver;

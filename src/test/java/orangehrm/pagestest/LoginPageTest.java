@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import orangehrm.basetest.BaseTest;
 import orangehrm.pages.LoginPage;
 import orangehrm.dataprovider.LoginDataProvider;
-import orangehrm.driverfactory.DriverFactory;
+import utility.DriverFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Reporter;

@@ -8,7 +8,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
-import herokuapp.util.WaitUtil;
+import utility.WaitUtil;
+
 
 public class BasicAuthPage {
 

@@ -2,7 +2,7 @@ package herokuapp.pagestest;
 
 
 import herokuapp.basetest.BaseTest;
-import herokuapp.driver.DriverFactory;
+import utility.DriverFactory;
 import herokuapp.pages.EntryAdPage;
 import org.openqa.selenium.By;
 import org.testng.Assert;

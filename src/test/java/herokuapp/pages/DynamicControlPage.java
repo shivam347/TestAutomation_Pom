@@ -9,8 +9,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
-import herokuapp.driver.DriverFactory;
-import herokuapp.util.WaitUtil;
+import utility.DriverFactory;
+import utility.WaitUtil;
+
 
 public class DynamicControlPage {
 

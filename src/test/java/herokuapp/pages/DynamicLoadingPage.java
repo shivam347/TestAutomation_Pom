@@ -1,6 +1,6 @@
 package herokuapp.pages;
 
-import herokuapp.util.WaitUtil;
+
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -10,6 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
+
+import utility.WaitUtil;
 
 public class DynamicLoadingPage {
 

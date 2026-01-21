@@ -5,8 +5,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Reporter;
 import org.testng.log4testng.Logger;
+
+import utility.WaitUtil;
+
 import org.openqa.selenium.support.PageFactory;
-import orangehrm.utility.WaitUtil;
+
 
 public class LoginPage {
         private static final Logger log = Logger.getLogger(LoginPage.class);

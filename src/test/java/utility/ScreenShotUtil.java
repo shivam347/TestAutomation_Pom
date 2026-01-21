@@ -1,10 +1,8 @@
-package orangehrm.utility;
+package utility;
 
 import org.openqa.selenium.*;
 
 import orangehrm.basetest.BaseTest;
-import orangehrm.driverfactory.DriverFactory;
-
 import org.apache.commons.io.FileUtils;
 
 import java.io.File;
@@ -12,12 +10,11 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ScreenshotUtil extends BaseTest {
+public class ScreenShotUtil extends BaseTest {
 
-    public void capture(String testName) {
+    public void capture(WebDriver driver, String testName) {
 
         /* Getting web driver from the driver factory  */
-        WebDriver driver =  DriverFactory.getDriver();
 
         String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss")
                 .format(new Date());

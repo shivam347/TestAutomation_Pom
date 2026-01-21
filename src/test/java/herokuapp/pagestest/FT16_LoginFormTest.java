@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import herokuapp.basetest.BaseTest;
 import herokuapp.dataproviderheroku.DataProviderHeroku;
-import herokuapp.driver.DriverFactory;
+import utility.DriverFactory;
 import herokuapp.pages.LoginFormPage;
 
 public class FT16_LoginFormTest extends BaseTest {

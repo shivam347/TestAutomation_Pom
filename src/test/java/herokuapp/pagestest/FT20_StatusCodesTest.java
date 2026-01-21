@@ -3,7 +3,7 @@ package herokuapp.pagestest;
 
 import herokuapp.basetest.BaseTest;
 import herokuapp.dataproviderheroku.DataProviderHeroku;
-import herokuapp.driver.DriverFactory;
+import utility.DriverFactory;
 import herokuapp.pages.PerformancePage;
 import herokuapp.pages.StatusCodesPage;
 import org.openqa.selenium.By;

@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import herokuapp.basetest.BaseTest;
-import herokuapp.driver.DriverFactory;
+import utility.DriverFactory;
 import herokuapp.pages.ABTestingPage;
 import herokuapp.pages.PerformancePage;
 import herokuapp.pages.RenderingPage;

@@ -1,7 +1,7 @@
 package herokuapp.pages;
 
-import herokuapp.driver.DriverFactory;
-import herokuapp.util.WaitUtil;
+import utility.DriverFactory;
+import utility.WaitUtil;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

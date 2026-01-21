@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>heroku chrome test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>18/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>19/0/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Jan 19 18:42:14 IST 2026</td>
+<td>Started on:</td><td>Wed Jan 21 18:44:03 IST 2026</td>
 </tr>
-<tr><td>Total time:</td><td>241 seconds (241223 ms)</td>
+<tr><td>Total time:</td><td>160 seconds (160617 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,104 +67,6 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
-<tr><td><b>Test method</b></td>
-<td><b>Attribute(s)</b></td>
-<td width="30%"><b>Exception</b></td>
-<td width="10%"><b>Time (seconds)</b></td>
-<td><b>Instance</b></td>
-</tr>
-<tr>
-<td title='herokuapp.pagestest.FT09_DynamicControlTest.verifyDynamicControls()'><b>verifyDynamicControls</b><br>Test class: herokuapp.pagestest.FT09_DynamicControlTest<br/>
-<a href="#Output-917847816" onClick='toggleBox("Output-917847816", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-917847816" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-917847816">
-Test FAILED<br/>
-</div>
-</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Dynamic Controls&quot;}
-  (Session info: chrome=143.0.7499.193)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: &apos;4.38.0&apos;, revision: &apos;6b412e825c*&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.7&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [96e1fc887a61684240e99f7aff27544d, findElement {value=Dynamic Controls, using=link text}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\VIDHIY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65502}, goog:processID: 9728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65502/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 96e1fc887a61684240e99f7aff27544d
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
-	at herokuapp.pagestest.FT09_DynamicControlTest.verifyDynamicControls(FT09_DynamicControlTest.java:16)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace917847816", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace917847816'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Dynamic Controls&quot;}
-  (Session info: chrome=143.0.7499.193)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: &apos;4.38.0&apos;, revision: &apos;6b412e825c*&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;21.0.7&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [96e1fc887a61684240e99f7aff27544d, findElement {value=Dynamic Controls, using=link text}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\VIDHIY~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65502}, goog:processID: 9728, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65502/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 96e1fc887a61684240e99f7aff27544d
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
-	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
-	at herokuapp.pagestest.FT09_DynamicControlTest.verifyDynamicControls(FT09_DynamicControlTest.java:16)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-	at org.testng.TestRunner.privateRun(TestRunner.java:739)
-	at org.testng.TestRunner.run(TestRunner.java:614)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-	at org.testng.TestNG.runSuites(TestNG.java:1112)
-	at org.testng.TestNG.run(TestNG.java:1079)
-	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-</pre></div></td>
-<td>3</td>
-<td>herokuapp.pagestest.FT09_DynamicControlTest@47a5b70d</td></tr>
-</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -174,261 +76,259 @@ Session ID: 96e1fc887a61684240e99f7aff27544d
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br/>
-<a href="#Output-1374785073" onClick='toggleBox("Output-1374785073", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1374785073" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1374785073">
-Initializing PerformancePage<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT03_BasicAuthTest@3f390d63</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT01_ABTestingTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT01_ABTestingTest<br/>
-<a href="#Output-2089786414" onClick='toggleBox("Output-2089786414", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-2089786414" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-2089786414">
-Initializing PerformancePage<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT01_ABTestingTest.verifyHeadingText()'><b>verifyHeadingText</b><br>Test class: herokuapp.pagestest.FT01_ABTestingTest<br/>
-<a href="#Output-1053832786" onClick='toggleBox("Output-1053832786", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1053832786" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1053832786">
-Initializing ABtesting<br/>
-fetching heading text for abtesting<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT01_ABTestingTest@7b5a12ae</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT06_ContextMenuTest.verifyContextMenuAlert()'><b>verifyContextMenuAlert</b><br>Test class: herokuapp.pagestest.FT06_ContextMenuTest<br/>
-<a href="#Output-1822115007" onClick='toggleBox("Output-1822115007", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1822115007" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1822115007">
-Initialization of the ContextMenuPage<br/>
-Performing right click on the contextMenu<br/>
-Started Handling the alert text<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT06_ContextMenuTest@2374d36a</td></tr>
-<tr>
 <td title='herokuapp.pagestest.FT08_DropDownTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT08_DropDownTest<br/>
-<a href="#Output-1509185872" onClick='toggleBox("Output-1509185872", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-539952463" onClick='toggleBox("Output-539952463", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1509185872" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1509185872">
+<a href="#Output-539952463" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-539952463">
 Initializing PerformancePage<br/>
-Test PASSED<br/>
 </div>
 </td>
 <td></td>
 <td>0</td>
-<td>herokuapp.pagestest.FT08_DropDownTest@1506f20f</td></tr>
+<td>herokuapp.pagestest.FT08_DropDownTest@49e53c76</td></tr>
 <tr>
-<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: admin, wrong, false<br/>
-<a href="#Output-1729045606" onClick='toggleBox("Output-1729045606", this, "Show output", "Hide output");'>Show output</a>
+<td title='herokuapp.pagestest.FT07_DragDropTest.verifyDragAndDrop()'><b>verifyDragAndDrop</b><br>Test class: herokuapp.pagestest.FT07_DragDropTest<br/>
+<a href="#Output-1028728402" onClick='toggleBox("Output-1028728402", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1729045606" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1729045606">
-Initializing Basic auth<br/>
-Navigating with Basic Auth credentials<br/>
-Test PASSED<br/>
+<a href="#Output-1028728402" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1028728402">
+Initializing DragDropPage<br/>
+Performing Drag and Drop A to B<br/>
 </div>
 </td>
 <td></td>
-<td>2</td>
-<td>herokuapp.pagestest.FT03_BasicAuthTest@3f390d63</td></tr>
+<td>0</td>
+<td>herokuapp.pagestest.FT07_DragDropTest@38d8f54a</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT10_DynamicLoadingTest.verifyDynamicLoadingFlow()'><b>verifyDynamicLoadingFlow</b><br>Test class: herokuapp.pagestest.FT10_DynamicLoadingTest<br/>
+<a href="#Output-1108039149" onClick='toggleBox("Output-1108039149", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1108039149" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1108039149">
+Initializing DynamicLoadingPage<br/>
+Clicking Start button<br/>
+Waiting for loading to finish<br/>
+Waiting for finish text<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>herokuapp.pagestest.FT10_DynamicLoadingTest@2a3b5b47</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT04_BrokenImageTest.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: herokuapp.pagestest.FT04_BrokenImageTest<br/>
+<a href="#Output-1322354584" onClick='toggleBox("Output-1322354584", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1322354584" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1322354584">
+Initialization of Broken Image Test<br/>
+Checking the Broken state of the images<br/>
+Checking the Broken state of the images<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT04_BrokenImageTest@3c19aaa5</td></tr>
 <tr>
 <td title='herokuapp.pagestest.FT02_AddRemoveTest.verifyAddRemoveTest()'><b>verifyAddRemoveTest</b><br>Test class: herokuapp.pagestest.FT02_AddRemoveTest<br/>
-<a href="#Output-1792109661" onClick='toggleBox("Output-1792109661", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-912584968" onClick='toggleBox("Output-912584968", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1792109661" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1792109661">
+<a href="#Output-912584968" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-912584968">
 Initializing Add Remove Page<br/>
 Initialization of Add Button<br/>
 Initialization of Add Button<br/>
 Initialization of Add Button<br/>
 Deleting all delete Button<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>7</td>
-<td>herokuapp.pagestest.FT02_AddRemoveTest@14dda234</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT02_AddRemoveTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT02_AddRemoveTest<br/>
-<a href="#Output-1160247050" onClick='toggleBox("Output-1160247050", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1160247050" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1160247050">
-Initializing PerformancePage<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT02_AddRemoveTest@14dda234</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT08_DropDownTest.verifyDropDown()'><b>verifyDropDown</b><br>Test class: herokuapp.pagestest.FT08_DropDownTest<br/>
-<a href="#Output-952590825" onClick='toggleBox("Output-952590825", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-952590825" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-952590825">
-Initialization of Drop-Down Page<br/>
-Selecting the option from drop down<br/>
-Selecting the option from drop down<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>1</td>
-<td>herokuapp.pagestest.FT08_DropDownTest@1506f20f</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: admin, admin, true<br/>
-<a href="#Output-1794710728" onClick='toggleBox("Output-1794710728", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1794710728" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1794710728">
-Initializing Basic auth<br/>
-Navigating with Basic Auth credentials<br/>
-Validating success message<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>1</td>
-<td>herokuapp.pagestest.FT03_BasicAuthTest@3f390d63</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT10_DynamicLoadingTest.verifyDynamicLoadingFlow()'><b>verifyDynamicLoadingFlow</b><br>Test class: herokuapp.pagestest.FT10_DynamicLoadingTest<br/>
-<a href="#Output-2008781167" onClick='toggleBox("Output-2008781167", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-2008781167" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-2008781167">
-Initializing DynamicLoadingPage<br/>
-Clicking Start button<br/>
-Waiting for loading to finish<br/>
-Waiting for finish text<br/>
-Test PASSED<br/>
 </div>
 </td>
 <td></td>
 <td>6</td>
-<td>herokuapp.pagestest.FT10_DynamicLoadingTest@424fd310</td></tr>
+<td>herokuapp.pagestest.FT02_AddRemoveTest@74f0ea28</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT06_ContextMenuTest.verifyContextMenuAlert()'><b>verifyContextMenuAlert</b><br>Test class: herokuapp.pagestest.FT06_ContextMenuTest<br/>
+<a href="#Output-184667021" onClick='toggleBox("Output-184667021", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-184667021" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-184667021">
+Initialization of the ContextMenuPage<br/>
+Performing right click on the contextMenu<br/>
+Started Handling the alert text<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT06_ContextMenuTest@409bf450</td></tr>
 <tr>
 <td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: user, pass, false<br/>
-<a href="#Output-886510498" onClick='toggleBox("Output-886510498", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-1608509647" onClick='toggleBox("Output-1608509647", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-886510498" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-886510498">
+<a href="#Output-1608509647" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1608509647">
 Initializing Basic auth<br/>
 Navigating with Basic Auth credentials<br/>
-Test PASSED<br/>
 </div>
 </td>
 <td></td>
 <td>1</td>
-<td>herokuapp.pagestest.FT03_BasicAuthTest@3f390d63</td></tr>
+<td>herokuapp.pagestest.FT03_BasicAuthTest@f6efaab</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT05_CheckBoxTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT05_CheckBoxTest<br/>
+<a href="#Output-1403191795" onClick='toggleBox("Output-1403191795", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1403191795" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1403191795">
+Initializing PerformancePage<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT05_CheckBoxTest@3349e9bb</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT04_BrokenImageTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT04_BrokenImageTest<br/>
+<a href="#Output-1839548688" onClick='toggleBox("Output-1839548688", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1839548688" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1839548688">
+Initializing PerformancePage<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT04_BrokenImageTest@3c19aaa5</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT01_ABTestingTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT01_ABTestingTest<br/>
+<a href="#Output-1983063045" onClick='toggleBox("Output-1983063045", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1983063045" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1983063045">
+Initializing PerformancePage<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT01_ABTestingTest@7d8995e</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: admin, admin, true<br/>
+<a href="#Output-871461513" onClick='toggleBox("Output-871461513", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-871461513" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-871461513">
+Initializing Basic auth<br/>
+Navigating with Basic Auth credentials<br/>
+Validating success message<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>herokuapp.pagestest.FT03_BasicAuthTest@f6efaab</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br/>
+<a href="#Output-1707179576" onClick='toggleBox("Output-1707179576", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1707179576" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1707179576">
+Initializing PerformancePage<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT03_BasicAuthTest@f6efaab</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT02_AddRemoveTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT02_AddRemoveTest<br/>
+<a href="#Output-1487884406" onClick='toggleBox("Output-1487884406", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1487884406" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1487884406">
+Initializing PerformancePage<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT02_AddRemoveTest@74f0ea28</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT09_DynamicControlTest.verifyDynamicControls()'><b>verifyDynamicControls</b><br>Test class: herokuapp.pagestest.FT09_DynamicControlTest<br/>
+<a href="#Output-1073839768" onClick='toggleBox("Output-1073839768", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1073839768" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1073839768">
+Initialization of Dynamic Control Page<br/>
+Started click on remove button<br/>
+Started click on add button<br/>
+Start clicking on Enabled Button<br/>
+Start clicking on Diabled button<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>herokuapp.pagestest.FT09_DynamicControlTest@351d00c0</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: wrong, admin, false<br/>
+<a href="#Output-66515916" onClick='toggleBox("Output-66515916", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-66515916" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-66515916">
+Initializing Basic auth<br/>
+Navigating with Basic Auth credentials<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>herokuapp.pagestest.FT03_BasicAuthTest@f6efaab</td></tr>
+<tr>
+<td title='herokuapp.pagestest.FT08_DropDownTest.verifyDropDown()'><b>verifyDropDown</b><br>Test class: herokuapp.pagestest.FT08_DropDownTest<br/>
+<a href="#Output-1876848389" onClick='toggleBox("Output-1876848389", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1876848389" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1876848389">
+Initialization of Drop-Down Page<br/>
+Selecting the option from drop down<br/>
+Selecting the option from drop down<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>herokuapp.pagestest.FT08_DropDownTest@49e53c76</td></tr>
 <tr>
 <td title='herokuapp.pagestest.FT05_CheckBoxTest.verifyCheckBoxes()'><b>verifyCheckBoxes</b><br>Test class: herokuapp.pagestest.FT05_CheckBoxTest<br/>
-<a href="#Output-1577067350" onClick='toggleBox("Output-1577067350", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-1608357825" onClick='toggleBox("Output-1608357825", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1577067350" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1577067350">
+<a href="#Output-1608357825" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1608357825">
 Initialization of CheckBox Method<br/>
 Selecting checkBox at index : 0<br/>
 CheckBox is selected at Index: 0<br/>
-Test PASSED<br/>
 </div>
 </td>
 <td></td>
 <td>0</td>
-<td>herokuapp.pagestest.FT05_CheckBoxTest@5a411614</td></tr>
+<td>herokuapp.pagestest.FT05_CheckBoxTest@3349e9bb</td></tr>
 <tr>
-<td title='herokuapp.pagestest.FT07_DragDropTest.verifyDragAndDrop()'><b>verifyDragAndDrop</b><br>Test class: herokuapp.pagestest.FT07_DragDropTest<br/>
-<a href="#Output-1605299030" onClick='toggleBox("Output-1605299030", this, "Show output", "Hide output");'>Show output</a>
+<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: admin, wrong, false<br/>
+<a href="#Output-1703458581" onClick='toggleBox("Output-1703458581", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1605299030" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1605299030">
-Initializing DragDropPage<br/>
-Performing Drag and Drop A to B<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT07_DragDropTest@54d18072</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT04_BrokenImageTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT04_BrokenImageTest<br/>
-<a href="#Output-1835713430" onClick='toggleBox("Output-1835713430", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1835713430" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1835713430">
-Initializing PerformancePage<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT04_BrokenImageTest@74a6a609</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT05_CheckBoxTest.verifyPageLoadsUnder3Seconds()'><b>verifyPageLoadsUnder3Seconds</b><br>Test class: herokuapp.pagestest.FT05_CheckBoxTest<br/>
-<a href="#Output-1231205406" onClick='toggleBox("Output-1231205406", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1231205406" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1231205406">
-Initializing PerformancePage<br/>
-Test PASSED<br/>
-</div>
-</td>
-<td></td>
-<td>0</td>
-<td>herokuapp.pagestest.FT05_CheckBoxTest@5a411614</td></tr>
-<tr>
-<td title='herokuapp.pagestest.FT03_BasicAuthTest.verifyBasicAuth()'><b>verifyBasicAuth</b><br>Test class: herokuapp.pagestest.FT03_BasicAuthTest<br>Parameters: wrong, admin, false<br/>
-<a href="#Output-1400324426" onClick='toggleBox("Output-1400324426", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-1400324426" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1400324426">
+<a href="#Output-1703458581" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1703458581">
 Initializing Basic auth<br/>
 Navigating with Basic Auth credentials<br/>
-Test PASSED<br/>
 </div>
 </td>
 <td></td>
 <td>1</td>
-<td>herokuapp.pagestest.FT03_BasicAuthTest@3f390d63</td></tr>
+<td>herokuapp.pagestest.FT03_BasicAuthTest@f6efaab</td></tr>
 <tr>
-<td title='herokuapp.pagestest.FT04_BrokenImageTest.verifyBrokenImages()'><b>verifyBrokenImages</b><br>Test class: herokuapp.pagestest.FT04_BrokenImageTest<br/>
-<a href="#Output-1043576110" onClick='toggleBox("Output-1043576110", this, "Show output", "Hide output");'>Show output</a>
+<td title='herokuapp.pagestest.FT01_ABTestingTest.verifyHeadingText()'><b>verifyHeadingText</b><br>Test class: herokuapp.pagestest.FT01_ABTestingTest<br/>
+<a href="#Output-2040548959" onClick='toggleBox("Output-2040548959", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1043576110" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1043576110">
-Initialization of Broken Image Test<br/>
-Checking the Broken state of the images<br/>
-Checking the Broken state of the images<br/>
-Test PASSED<br/>
+<a href="#Output-2040548959" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2040548959">
+Initializing ABtesting<br/>
+fetching heading text for abtesting<br/>
 </div>
 </td>
 <td></td>
-<td>1</td>
-<td>herokuapp.pagestest.FT04_BrokenImageTest@74a6a609</td></tr>
+<td>0</td>
+<td>herokuapp.pagestest.FT01_ABTestingTest@7d8995e</td></tr>
 </table><p>
 </body>
 </html>
